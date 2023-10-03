@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import string
 
+
+def cleanup(s):
+    return s.strip().strip(string.punctuation).replace("’","'")
+
 url = "https://charlottesville29.com/five-finds-on-friday/"
 html  = requests.get(url).text
 soup = BeautifulSoup(html, features="html.parser")
@@ -17,7 +21,7 @@ for entry in entries:
         continue
     restaurant = entry.find('a')
     if restaurant:
-        rname = restaurant.text.strip().strip(string.punctuation)
+        rname = cleanup(restaurant.text)
         rurl = restaurant["href"]
         item = entry.find('strong')
         if not item:
@@ -25,12 +29,12 @@ for entry in entries:
         if rname in restaurantcount:
             restaurantcount[rname] += 1
             if item:
-                restaurantrecs[rname].append(item.text.strip().strip(string.punctuation))
+                restaurantrecs[rname].append(cleanup(item.text))
         else:
             restaurantcount[rname] = 1
             restauranturl[rname] = rurl
             if item:
-                restaurantrecs[rname] = [(item.text.strip().strip(string.punctuation))]
+                restaurantrecs[rname] = [cleanup(item.text)]
 
 restaurantcount = sorted(restaurantcount.items(), key=lambda x:x[1], reverse=True)
 
