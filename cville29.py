@@ -43,4 +43,4 @@ for r in restaurantcount:
         finds.append({"name":r[0],"url":restauranturl[r[0]],"times picked":r[1],"recommendations":[]})
 
 import json
-json.dump(finds,open("./finds.json","w"))
+json.dump(finds,open("./finds.json","w"), indent=4)
