@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import string
 import json
+import re
 
 def cleanup(s):
     return s.replace("’","'").strip().strip(string.punctuation)
@@ -10,7 +11,8 @@ url = "https://charlottesville29.com/five-finds-on-friday/"
 html  = requests.get(url).text
 soup = BeautifulSoup(html, features="html.parser")
 
-entries = soup.find_all('p', attrs={'style':'padding-left: 30px;'})
+# styling for entries is *inconsistent*, so we'll use this regex to catch (hopefully) all of them
+entries = soup.find_all('p', attrs={'style':re.compile("padding-left: [2-9]0px;")})
 
 restaurantcount = {}
 restauranturl = {}
@@ -25,7 +27,7 @@ for entry in entries:
     if not str.isnumeric(entry.text[0]):
         continue
     # Limitations: Sometimes people recommend more than one restaurant; we'll only count the first one because it's harder to distinguish subsequent recommendations and regular links
-    # Sometimes, there's no link (no website, neglect, or "wife's meatballs"), which we won't count.
+    # Sometimes, there's no link (because there's no website, because of neglect, or because it's "wife's meatballs"), which we won't count at all.
     restaurant = entry.find('a')
     if restaurant:
         rname = cleanup(restaurant.text)

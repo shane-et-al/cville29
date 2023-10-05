@@ -16,22 +16,27 @@ Arch's Frozen Yogurt
 Ariana Grill Kabob House
 Aromas Cafe
 Asian Express
+Atlas Coffee
 Augustiner Hall and Garden
 Autumn Olive Farms
 Babes in the Woods
 Back 40
 Baggby's
 Baja Bean Co
+Baker No Bakery
+Baleadas
 Bang
 Barbie's Burrito Barn
 Barboursville Vineyards
 Barefoot Country Store
+Basan
 Bashir's Taverna
+Basil
 Bear Dog Farm
+Bee Conscious Baking Company
 Beer Run
 Bella's
 Bellair Farm
-Bellair Market
 Belle
 Bizou
 Black Market Moto Saloon
@@ -44,28 +49,35 @@ Blue Ridge Country Store
 Blue Ridge Kettle Korn
 Bodo's Bagels
 Bold Rock Hard Cider
+Botanical
+Bowerbird Bakeshop
 Boylan Heights
 Brasserie Saison
 Brazos Tacos
-Breadworks
+BreadWorks
 Brent Manor Vineyards
 Brioche Feuilletée
+Brixx Pizza
 Brookville Restaurant
 Brown's
+Burger Bach
 Buttz BBQ
 C & O Restaurant
 Cafe Cubano
+Café Frank
 Cappelino's Crazy Cakes
 Cardinal Point Oyster Roast
 Caromont Farm
 Carpe Donut
 Carter Mountain Orchard
+Champion Grill
 Champion Tap Room
-Chandler's
+Chandler's Bakery
 Chaps
 Chicano Boy Taco
 Chick-fil-A
 Chiles Orchard
+Chimm
 Chopt
 Christian's Pizza
 Cicchetti Bar at Tavola
@@ -74,17 +86,26 @@ Citizen Burger Bar
 City Market
 Clifton Inn
 Cocoa & Spice
+Cold Country Salmon
 Colleen Drive-in
+Comal
+Common House
 Commonwealth Restaurant and Skybar
+Conmole
 Continental Divide
+Corner Juice
+Cou Cou Rachou
 Court Square Tavern
 Crazy Farm
+Croby's
+Crozet Creamery
 Crozet Pizza Pourhouse
 Côte-Rôtie
 Desi Dosa
-Devil's Backbone
+Devils Backbone Brewing Company
 Dickie Brothers Orchard
-Doma
+Dino's Wood Fired Pizza
+Doma Korean Kitchen
 Don Panchito
 Donut Kitchen
 Downtown Grille
@@ -96,6 +117,7 @@ Duner's Restaurant
 Dürty Nelly's Pub - Deli
 Early Mountain Vineyards
 El Puerto
+El Tako Nako
 El Tepeyac
 El Tesoro Mexican Deli
 Eljogaha
@@ -107,6 +129,7 @@ Farmers in the Park
 Farmstead Ferments
 Feast
 Fig
+Firefly
 Five Guys
 Fleurie
 Flora Artisanal Cheese
@@ -118,6 +141,7 @@ Freckles 'N' Friends
 Free Union Grass Farm
 Fry's Spring Station
 GOCO
+GRN BRGR
 Gabriele Rausse Winery
 Gearharts Fine Chocolates
 Ginkgo
@@ -129,15 +153,20 @@ Great Harvest Bread Company
 Green House Coffee
 Greenwood Grocery
 Grit Coffee
+Guadalajara (Downtown)
+Guadalajara (UVa location)
+Guajiros Miami Eatery
 Hamiltons' at First and Main
 Hanu Truck
 Hardywood Park Craft Brewery
 Himalayan Fusion
 Hip Hop Hill
+Holmes Dinner Club
 Horse & Hound
 Hunt Country Market & Deli
 Hunter
 Integral Yoga Natural Foods
+Iron Paffles & Coffee
 Ivy Provisions
 JM Stock Provisions
 Jack Brown's Beer and Burger Joint
@@ -148,12 +177,14 @@ Java Java
 Jefferson Vineyards
 Junction
 Kabuto
+Kama
 Kardinal Hall
 Keevil & Keevil Grocery and Kitchen
 Keswick Hall
 King Family Vineyards
 King's Gourmet Popcorn
 Kokoro
+Kuma Sushi Noodles & Bar
 Kyoto
 L'etoile
 LW's Livery Stable
@@ -171,34 +202,42 @@ Lime Leaf Thai
 Little Hat Creek Farm
 Little Manila
 Little Star
+Livery Stable
 Lone Light Coffee
 Lost Saint
+Luce
 MAS Tapas
 Made in Asia
 Maharaja
+Manila Street
 Marco and Luca
 Marco's Pizza
 MarieBette
 MarieBette Café & Bakery
 Market Street Market
+Market Street Wine
+Maru
 Maya
 McGrady's
 MeatCrafters
 Mel's Cafe
 Mellow Mushroom
 Mexican Tacos
+Mi Canton
 Mican
 Michie Tavern
 Milan Indian Cuisine
 Miller's Downtown
 Milli Coffee Roasters
+Ming Dynasty
 Miso Sweet
 Miyako
 Mochiko
-Mona Lisa
+Mona Lisa Pasta
 Mono Loco
 Monsoon Siam
 Montifalco Vineyard
+Moo Thru
 Moon Maiden's Delights
 Moss Vineyards
 Moto Pho Co
@@ -209,29 +248,40 @@ Mr V's Kitchen
 Mudhouse
 Mush Luv
 Mykonos Cafe
+Nona's Italian Cucina
 North American Sake Brewery
 Now and Zen
 Nugget's Raw Kombucha
 Oakhart Social
 Oakhurst Inn
 Oh My Gosh . . . Yum
+Orange Dot Baking Company
 Orzo Kitchen and Wine Bar
+Otto
 Pad Thai
 Palladio Restaurant
 Paradox Pastry
 Parallel 38
+Passiflora
 Pasture Q
+Patois Cider
 Pearl Island Café
 Pearl's Bake Shoppe
 Peter Chang China Grill
 Petit Pois
+Petite MarieBette
 Pico Wrap
 Pie in the Sky
+Piedmont Store
 Pippin Hill Farm
 Pizza Bella
+Plaza Azteca
+Plenty Cville
+Poke Sushi Bowl
 Potter's Craft Cider
 Prime 109
 Public Fish and Oyster
+Pye Dog Pizza
 Quality Pie
 ROCKSALT
 Rachel Willis
@@ -245,10 +295,12 @@ Restoration
 Revolutionary Soup
 Rhett's River Grill
 Riverside Lunch
+Riverside Lunch North
 Rock Barn
 Rocksalt
 Roots Natural Kitchen
 Royal Indian
+Royalty Eats
 Sabor Latino
 Salt Artisan Market
 Santiago Chocolates
@@ -261,13 +313,18 @@ Shebeen
 Shell Station on Preston Avenue
 Shenandoah Joe
 Silk Road
+Skjald Meadworks
 Skybar
 Smojo
 Smoked Kitchen and Tap
 Smoking Goose
+Smyrna
+Snowfox Sushi
 Snowing in Space
+Soul Food Joint
 South Fork
 South Street Brewery
+South and Central
 Southern Way Cafe
 SpiceSea Gourmet
 Spirit Lab Distilling
@@ -277,6 +334,7 @@ Spudnuts
 Starr Hill Tasting Room
 Steadfast Farm
 Sticks Kebob Shop
+Stinson Vineyards
 Stonefire Kitchen
 Sultan Kebab
 Super Amanecer
@@ -319,15 +377,19 @@ The Korean House
 The Lazy Parrot Grill
 The Livery Stable
 The Local
+The Market
 The Nook
 The Organic Butcher
 The Pie Chest
+The Pie Guy
 The Pigeon Hole
 The Rock Barn
 The Shack
 The Shebeen
+The Southern Crescent
 The Spice Diva
 The Villa
+The Virginian
 The Whiskey Jar
 The Wine Guild
 Thibaut-Janisson
@@ -338,6 +400,7 @@ Timberlakes Drug Store and Soda Fountain
 Timberwood Grill
 Tip Top Restaurant
 Tokyo Rose
+Tonic
 Trager Brothers Coffee
 Twenty Paces
 Twin Oaks Community Farm
@@ -363,6 +426,7 @@ Wolf Creek Farm
 Wonderment​ Bakeshop and Creamery
 Woodson's Mill
 Yearbook Taco
+Yuan Ho
 Zazus Fresh Grille
 Zinc
 Zocalo

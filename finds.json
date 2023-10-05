@@ -1,9 +1,86 @@
 [
     {
+        "name": "Lampo Neapolitan Pizzeria",
+        "url": "https://charlottesville29.com/2016/03/22/lampo/",
+        "times picked": 66,
+        "recommendations": [
+            "Marinara D.O.C",
+            "Funghi",
+            "Marinara D.O.C. Pizza",
+            "Marinara D.O.C",
+            "Porchetta Panuozzo",
+            "Porchetta",
+            "Funghi Pizza",
+            "Margarita D.O.C",
+            "Sauteed Escarole and a Negroni",
+            "Marinara D.O.C. Pizza",
+            "Funghi Pizza",
+            "Porchetta Panuozzo",
+            "Vongole Pizza",
+            "The Hellboy",
+            "Hellboy Pizza",
+            "Margherita Pizza",
+            "Marinara D.O.C",
+            "Funghi Pizza",
+            "Budino",
+            "Margherita D.O.C",
+            "Cavoletti Di Bruxelles",
+            "Marinara D.O.C",
+            "Margherita D.O.C. & Polpettine",
+            "Funghi Pizza",
+            "Funghi Pizza",
+            "Margherita Pizza",
+            "Aged Prosciutto",
+            "Sauteed Escarole and Margherita Pizza",
+            "Cavoletti Di Bruxelles",
+            "Porchetta Panuozzo",
+            "Porchetta Panuozzi",
+            "Marinara d.o.c. Pizza",
+            "Polpettine Panuozzo",
+            "Dinner",
+            "Prosciutto Pizza",
+            "Cavolo Nero",
+            "Prosciutto Pizza",
+            "Funghi Pizza",
+            "Polpettine al Forno",
+            "Banh Mi",
+            "Funghi Pizza",
+            "Porchetta Panouzzo",
+            "Prosciutto Pizza",
+            "Porchetta Panuozzo",
+            "Sherwood Farm 150 Day Dry Aged Tartare",
+            "Polpettine al Forno",
+            "Hellboy Pizza",
+            "Porchetta Panuozzo",
+            "Pizza Dough",
+            "Hellboy Pizza",
+            "Polpettine",
+            "Prosciutto Pizza",
+            "Abruzzo Pizza",
+            "Budino",
+            "Funghi Pizza",
+            "Prosciutto Pizza",
+            "Margherita D.O.C",
+            "Carbonara Pizza",
+            "Hellboy Pizza",
+            "Budino",
+            "Margherita Pizza",
+            "Hellboy Pizza",
+            "Pizza Margherita",
+            "Conserva al Spada",
+            "Porchetta Panuozzo",
+            "Whatever Wine"
+        ]
+    },
+    {
         "name": "MAS Tapas",
         "url": "https://charlottesville29.com/2012/08/30/mas/",
-        "times picked": 56,
+        "times picked": 60,
         "recommendations": [
+            "Gambas al' Parilla",
+            "Bocadillo",
+            "Paella",
+            "5) Tomates Asados (Smoked Roma Tomatoes",
             "Tortilla Espanola",
             "Atun a La Parilla",
             "Boquerones",
@@ -63,70 +140,15 @@
         ]
     },
     {
-        "name": "Lampo Neapolitan Pizzeria",
-        "url": "https://charlottesville29.com/2016/03/22/lampo/",
-        "times picked": 53,
-        "recommendations": [
-            "The Hellboy",
-            "Hellboy Pizza",
-            "Margherita Pizza",
-            "Marinara D.O.C",
-            "Funghi Pizza",
-            "Budino",
-            "Margherita D.O.C",
-            "Cavoletti Di Bruxelles",
-            "Marinara D.O.C",
-            "Margherita D.O.C. & Polpettine",
-            "Funghi Pizza",
-            "Funghi Pizza",
-            "Margherita Pizza",
-            "Aged Prosciutto",
-            "Sauteed Escarole and Margherita Pizza",
-            "Cavoletti Di Bruxelles",
-            "Porchetta Panuozzo",
-            "Porchetta Panuozzi",
-            "Marinara d.o.c. Pizza",
-            "Polpettine Panuozzo",
-            "Dinner",
-            "Prosciutto Pizza",
-            "Cavolo Nero",
-            "Prosciutto Pizza",
-            "Funghi Pizza",
-            "Polpettine al Forno",
-            "Banh Mi",
-            "Funghi Pizza",
-            "Porchetta Panouzzo",
-            "Prosciutto Pizza",
-            "Porchetta Panuozzo",
-            "Sherwood Farm 150 Day Dry Aged Tartare",
-            "Polpettine al Forno",
-            "Hellboy Pizza",
-            "Porchetta Panuozzo",
-            "Pizza Dough",
-            "Hellboy Pizza",
-            "Polpettine",
-            "Prosciutto Pizza",
-            "Abruzzo Pizza",
-            "Budino",
-            "Funghi Pizza",
-            "Prosciutto Pizza",
-            "Margherita D.O.C",
-            "Carbonara Pizza",
-            "Hellboy Pizza",
-            "Budino",
-            "Margherita Pizza",
-            "Hellboy Pizza",
-            "Pizza Margherita",
-            "Conserva al Spada",
-            "Porchetta Panuozzo",
-            "Whatever Wine"
-        ]
-    },
-    {
         "name": "Tavola",
         "url": "https://charlottesville29.com/2012/09/26/tavola/",
-        "times picked": 39,
+        "times picked": 44,
         "recommendations": [
+            "Carciofo",
+            "Melanzane Alla Parmigiana",
+            "Garganelli Alla Zucca",
+            "Cozze ai Ferri e Pane",
+            "Cotoletta di Matale alla Milanese",
             "Linguine Alla Carbonara",
             "Dealer's Choice",
             "Pork Milanese",
@@ -171,8 +193,14 @@
     {
         "name": "Bodo's Bagels",
         "url": "https://charlottesville29.com/bodos/",
-        "times picked": 33,
+        "times picked": 39,
         "recommendations": [
+            "Smoked Turkey on an Everything",
+            "BLT on Everything",
+            "Chicken Salad on an Everything",
+            "Bagels with Lox and Herb Cream Cheese",
+            "Turkey on Everything w/ Pepper Spread",
+            "Everything Bagel with Cream Cheese",
             "Bacon, Egg, and Cheddar on an Everything",
             "Chicken Salad on an Everything Bagel",
             "Turkey on an Everything Bagel",
@@ -209,10 +237,57 @@
         ]
     },
     {
+        "name": "Oakhart Social",
+        "url": "https://charlottesville29.com/2016/03/09/oakhart-social/",
+        "times picked": 35,
+        "recommendations": [
+            "Charred Carrots",
+            "Summer Squash Pizza",
+            "Grilled Pork Steak and Charred Carrots",
+            "Beets",
+            "Shaved Salad",
+            "Shaved Salad",
+            "Whole Flounder",
+            "Pot de Crème",
+            "Charred Carrots",
+            "Charred Carrots",
+            "S'mores Bread Pudding",
+            "Wedge Salad",
+            "Charred Carrots",
+            "House Sausage Pizza",
+            "In Bloom",
+            "Charred Carrots",
+            "Vegetables",
+            "Fried Catfish",
+            "Oyster Mushrooms and Grits",
+            "Vegetables",
+            "Shaved Salad",
+            "Shaved Salad",
+            "Smoked Tri-Tip",
+            "Chicken Liver Pate",
+            "Charred Carrots",
+            "Grilled Shrimp with XO Sauce",
+            "Pickled Shrimp",
+            "Open-faced Chicken Fried Octopus Sando",
+            "Cocktails from my Favorite Charlottesville Bars",
+            "Hangar Steak",
+            "Wood Fired Oysters",
+            "Shaved Salad",
+            "Brussels Sprouts",
+            "CVille Hot Chicken",
+            "Brussels Sprouts"
+        ]
+    },
+    {
         "name": "The Alley Light",
         "url": "https://charlottesville29.com/2015/02/11/the-alley-light/",
-        "times picked": 30,
+        "times picked": 35,
         "recommendations": [
+            "Lamb Carpaccio",
+            "Dealer's Choice",
+            "Vegetable Board",
+            "Pickled Ramp Martini",
+            "Sazerac",
             "Dealer's Choice",
             "Beef Cheeks",
             "Mr. Rech",
@@ -248,8 +323,12 @@
     {
         "name": "C & O Restaurant",
         "url": "https://charlottesville29.com/2014/12/29/co/",
-        "times picked": 29,
+        "times picked": 33,
         "recommendations": [
+            "Roasted Scallops",
+            "Grilled Cheese and Tomato Soup",
+            "Burger and Amaro Late Night",
+            "Tomato Soup and Grilled Cheese",
             "Steak Chinois",
             "Late Night Burger",
             "Late Night Burger",
@@ -282,10 +361,53 @@
         ]
     },
     {
+        "name": "Dr. Ho's Humble Pie",
+        "url": "https://charlottesville29.com/dr-hos-humble-pie/",
+        "times picked": 32,
+        "recommendations": [
+            "Ranch",
+            "Fat and Sassy",
+            "Don Juan Pizza",
+            "The Fat and Sassy",
+            "Ragin' Cajun",
+            "The Heavy Hand",
+            "Bellissima Pizza",
+            "The Bellissima",
+            "Fat & Sassy",
+            "The Bellissima",
+            "Spicy Fried Calamari",
+            "Bellissima Pizza",
+            "The Fat and Sassy",
+            "French Fries",
+            "NacHos",
+            "The Humble Pie",
+            "The Big Schloss",
+            "Don Juan",
+            "Spicy Fried Calamari",
+            "Bellisima Pizza",
+            "Spinach Salad",
+            "Popeye Pizza",
+            "NacHo's",
+            "Bellisima Pizza",
+            "The Bellissima",
+            "Nachos",
+            "Bellissima Pizza",
+            "Annie Oakley",
+            "The Fat n' Sassy",
+            "Nachos",
+            "Bellissima Pizza on Whole Wheat Crust",
+            "Bellissima pizza"
+        ]
+    },
+    {
         "name": "Peter Chang China Grill",
         "url": "https://charlottesville29.com/2015/01/06/peter-changs-china-grill/",
-        "times picked": 28,
+        "times picked": 32,
         "recommendations": [
+            "Hot and Numbing Shredded Tofu Skins",
+            "Scallion Bubble Pancake",
+            "Dry-Fried Mushrooms",
+            "Dry Fried Eggplant",
             "Shan City Chicken",
             "Pepper and Garlic Shrimp",
             "Hot and Numbing Shredded Tofu Skins",
@@ -317,71 +439,109 @@
         ]
     },
     {
-        "name": "Oakhart Social",
-        "url": "https://charlottesville29.com/2016/03/09/oakhart-social/",
-        "times picked": 27,
+        "name": "Albemarle Baking Company",
+        "url": "https://albemarlebakingco.com/",
+        "times picked": 30,
         "recommendations": [
-            "Charred Carrots",
-            "Charred Carrots",
-            "S'mores Bread Pudding",
-            "Wedge Salad",
-            "Charred Carrots",
-            "House Sausage Pizza",
-            "In Bloom",
-            "Charred Carrots",
-            "Vegetables",
-            "Fried Catfish",
-            "Oyster Mushrooms and Grits",
-            "Vegetables",
-            "Shaved Salad",
-            "Shaved Salad",
-            "Smoked Tri-Tip",
-            "Chicken Liver Pate",
-            "Charred Carrots",
-            "Grilled Shrimp with XO Sauce",
-            "Pickled Shrimp",
-            "Open-faced Chicken Fried Octopus Sando",
-            "Cocktails from my Favorite Charlottesville Bars",
-            "Hangar Steak",
-            "Wood Fired Oysters",
-            "Shaved Salad",
-            "Brussels Sprouts",
-            "CVille Hot Chicken",
-            "Brussels Sprouts"
+            "Seasonal Fruit Brioche",
+            "Princess Cake",
+            "Princess Cake",
+            "Apple Brioche with Pastry Cream",
+            "Lemon Meringue Pie",
+            "Princess Cake",
+            "Stollen",
+            "Fruit Focaccia",
+            "Oatmeal Crunch",
+            "Chocolate Praline Crunch Dome",
+            "Shenandoah, Light Roll, and Baguette",
+            "Chocolate Praline Crunch Cake",
+            "Apricot Danish",
+            "Chocolate Praline Crunch Cake",
+            "Princess Cake",
+            "Olive Boule",
+            "Black Cadillac",
+            "Princess Cake",
+            "French Macarons",
+            "Brioche",
+            "Croissants",
+            "Olive Thyme Levain",
+            "Princess Cake",
+            "Croissant",
+            "Pain au Chocolat",
+            "Chocolate Praline Crunch Cake Dome",
+            "Potato Rosemary Bread",
+            "Ginger Scone",
+            "Baked Currant Donuts",
+            "“The Albemarle”"
         ]
     },
     {
-        "name": "Dr. Ho's Humble Pie",
-        "url": "https://charlottesville29.com/2013/01/16/dr-hos-humble-pie/",
+        "name": "Al Carbon",
+        "url": "https://charlottesville29.com/2016/03/15/al-carbon/",
+        "times picked": 28,
+        "recommendations": [
+            "Chicken Cemita",
+            "La Familia Chicken",
+            "Chiles Toreados y Cebollitas",
+            "Flautas",
+            "La Familia",
+            "Charcoal Rotisserie Chicken",
+            "Roasted Chicken",
+            "Chorizo Tacos",
+            "Pollo",
+            "Half Chicken and Green Rice with Aji Sauce",
+            "Mexican Street Corn",
+            "Rotisserie Chicken",
+            "Rotisserie Chicken",
+            "Rotisserie Chicken",
+            "Milanesa Cemitas",
+            "Rotisserie Chicken",
+            "Rotisserie Chicken",
+            "Tacos Al Pastor",
+            "La Familia",
+            "Cemitas",
+            "La Familia",
+            "Cemita de Carne Asada",
+            "Roasted Chicken and Yucca Frita",
+            "Pollo Cemita",
+            "Elote con Mayonesa",
+            "Para Papa",
+            "Churros",
+            "Chicken"
+        ]
+    },
+    {
+        "name": "JM Stock Provisions",
+        "url": "https://www.stockprovisions.com/",
         "times picked": 27,
         "recommendations": [
-            "The Heavy Hand",
-            "Bellissima Pizza",
-            "The Bellissima",
-            "Fat & Sassy",
-            "The Bellissima",
-            "Spicy Fried Calamari",
-            "Bellissima Pizza",
-            "The Fat and Sassy",
-            "French Fries",
-            "NacHos",
-            "The Humble Pie",
-            "The Big Schloss",
-            "Don Juan",
-            "Spicy Fried Calamari",
-            "Bellisima Pizza",
-            "Spinach Salad",
-            "Popeye Pizza",
-            "NacHo's",
-            "Bellisima Pizza",
-            "The Bellissima",
-            "Nachos",
-            "Bellissima Pizza",
-            "Annie Oakley",
-            "The Fat n' Sassy",
-            "Nachos",
-            "Bellissima Pizza on Whole Wheat Crust",
-            "Bellissima pizza"
+            "Ham Biscuits",
+            "Lunch Special",
+            "Cville",
+            "Ham Biscuit",
+            "Coppa Pork Steaks",
+            "Hot Dog",
+            "Pate de Campagne",
+            "Ham Biscuits",
+            "Ham Biscuit",
+            "Ham Biscuits",
+            "Ham Biscuit",
+            "Sausages",
+            "Ham Biscuit",
+            "Spam",
+            "Head Cheese",
+            "Ham Biscuit",
+            "Ham Biscuit",
+            "Andouille Sausage",
+            "Pork Chops",
+            "Weekend Sandwich Special",
+            "Lamb Bacon",
+            "Ham Biscuit",
+            "Rabbit Terrine",
+            "Dry-Aged Burger Grind",
+            "Gnarly Fried Chicken and Parmesan Sandwich",
+            "Lamb Bacon",
+            "Country Pate"
         ]
     },
     {
@@ -418,64 +578,34 @@
         ]
     },
     {
-        "name": "JM Stock Provisions",
-        "url": "http://www.stockprovisions.com/",
+        "name": "Beer Run",
+        "url": "https://charlottesville29.com/2012/11/15/beer-run/",
         "times picked": 24,
         "recommendations": [
-            "Ham Biscuit",
-            "Coppa Pork Steaks",
-            "Hot Dog",
-            "Pate de Campagne",
-            "Ham Biscuits",
-            "Ham Biscuit",
-            "Ham Biscuits",
-            "Ham Biscuit",
-            "Sausages",
-            "Ham Biscuit",
-            "Spam",
-            "Head Cheese",
-            "Ham Biscuit",
-            "Ham Biscuit",
-            "Andouille Sausage",
-            "Pork Chops",
-            "Weekend Sandwich Special",
-            "Lamb Bacon",
-            "Ham Biscuit",
-            "Rabbit Terrine",
-            "Dry-Aged Burger Grind",
-            "Gnarly Fried Chicken and Parmesan Sandwich",
-            "Lamb Bacon",
-            "Country Pate"
-        ]
-    },
-    {
-        "name": "Albemarle Baking Company",
-        "url": "https://albemarlebakingco.com/",
-        "times picked": 23,
-        "recommendations": [
-            "Fruit Focaccia",
-            "Oatmeal Crunch",
-            "Chocolate Praline Crunch Dome",
-            "Shenandoah, Light Roll, and Baguette",
-            "Chocolate Praline Crunch Cake",
-            "Apricot Danish",
-            "Chocolate Praline Crunch Cake",
-            "Princess Cake",
-            "Olive Boule",
-            "Black Cadillac",
-            "Princess Cake",
-            "French Macarons",
-            "Brioche",
-            "Croissants",
-            "Olive Thyme Levain",
-            "Princess Cake",
-            "Croissant",
-            "Pain au Chocolat",
-            "Chocolate Praline Crunch Cake Dome",
-            "Potato Rosemary Bread",
-            "Ginger Scone",
-            "Baked Currant Donuts",
-            "“The Albemarle”"
+            "Kimchi Pork Wrap",
+            "Grilled Radicchio Salad (add Salmon) with Allagash FV13",
+            "Nachos",
+            "Nachos",
+            "A.M. Biscuit",
+            "Pupusas",
+            "Nachos with Beef and Extra Tomatillo Salsa",
+            "Chicken Philly",
+            "Nachos",
+            "Nachos",
+            "Avocado Toast",
+            "Saturday",
+            "Turkey Trot",
+            "Nachos",
+            "Nachos",
+            "The Dubliner",
+            "Duchesse De Bourgogne",
+            "The Rock Barn Bratwurst",
+            "Lasagna",
+            "Autumn Omelet",
+            "Tres Colores Fish and Chips",
+            "Muffaleta",
+            "Bison Burger",
+            "Rock Barn Bratwurst"
         ]
     },
     {
@@ -509,67 +639,39 @@
         ]
     },
     {
-        "name": "Beer Run",
-        "url": "https://charlottesville29.com/2012/11/15/beer-run/",
+        "name": "Now and Zen",
+        "url": "https://nowandzencville.square.site/",
         "times picked": 22,
         "recommendations": [
-            "Grilled Radicchio Salad (add Salmon) with Allagash FV13",
-            "Nachos",
-            "Nachos",
-            "A.M. Biscuit",
-            "Pupusas",
-            "Nachos with Beef and Extra Tomatillo Salsa",
-            "Chicken Philly",
-            "Nachos",
-            "Nachos",
-            "Avocado Toast",
-            "Saturday",
-            "Turkey Trot",
-            "Nachos",
-            "Nachos",
-            "The Dubliner",
-            "Duchesse De Bourgogne",
-            "The Rock Barn Bratwurst",
-            "Autumn Omelet",
-            "Tres Colores Fish and Chips",
-            "Muffaleta",
-            "Bison Burger",
-            "Rock Barn Bratwurst"
-        ]
-    },
-    {
-        "name": "Al Carbon",
-        "url": "https://charlottesville29.com/2016/03/15/al-carbon/",
-        "times picked": 21,
-        "recommendations": [
-            "Chorizo Tacos",
-            "Pollo",
-            "Half Chicken and Green Rice with Aji Sauce",
-            "Mexican Street Corn",
-            "Rotisserie Chicken",
-            "Rotisserie Chicken",
-            "Rotisserie Chicken",
-            "Milanesa Cemitas",
-            "Rotisserie Chicken",
-            "Rotisserie Chicken",
-            "Tacos Al Pastor",
-            "La Familia",
-            "Cemitas",
-            "La Familia",
-            "Cemita de Carne Asada",
-            "Roasted Chicken and Yucca Frita",
-            "Pollo Cemita",
-            "Elote con Mayonesa",
-            "Para Papa",
-            "Churros",
-            "Chicken"
+            "Sweet Potato Tempura Roll",
+            "Tuna Avocado Carpaccio",
+            "Volcano Roll",
+            "Tuna Avocado Carpaccio",
+            "Aburi Salmon",
+            "Octopus Tempura",
+            "Tuna Tartare",
+            "Green Giant Roll",
+            "Salmon Nanban",
+            "Crunchy Spicy Tuna Roll",
+            "5) Crunchy Spicy Tuna Roll",
+            "Raw Fish Salad",
+            "Tuna Carpaccio Salad",
+            "Otoro",
+            "Chirashi Bowl",
+            "Gyoza",
+            "Tuna Carpaccio",
+            "Sushi",
+            "Tofu Steak",
+            "Pork Gyoza",
+            "Gyoza Dumplings"
         ]
     },
     {
         "name": "The Whiskey Jar",
         "url": "http://thewhiskeyjarcville.com/",
-        "times picked": 20,
+        "times picked": 21,
         "recommendations": [
+            "Red Snapper with Cherry Tomatoes",
             "Smoked Chicken Wings",
             "Manhattan",
             "Fried Chicken and Collards",
@@ -589,6 +691,86 @@
             "Fried Chicken with Collards",
             "House-made Sorghum Butter",
             "Fried Chicken with Collards"
+        ]
+    },
+    {
+        "name": "Zocalo",
+        "url": "https://charlottesville29.com/2012/04/04/zocalo/",
+        "times picked": 20,
+        "recommendations": [
+            "Loose Goose Martini",
+            "Vella Jack Cheese Fritters",
+            "Chili Dusted Sea Scallops",
+            "Grilled Salmon",
+            "Tuna Tartare",
+            "Key Lime Free Range Chicken",
+            "Vella Jack Cheese Fritters",
+            "Grilled Salmon",
+            "Cucumber Martini",
+            "Spicy Tuna Tartar",
+            "Parliament",
+            "Vella Jack Cheese Fritters",
+            "Spicy Tuna Tartar",
+            "Vella Jack Cheese Fritter",
+            "Chili Broth Steamed Mussels",
+            "Vella Jack Cheese Fritters",
+            "Spicy Tuna Tartar",
+            "Spicy Tuna Tartar",
+            "Black Bean and Corn Relleno",
+            "Black Bean and Corn Relleno"
+        ]
+    },
+    {
+        "name": "Feast",
+        "url": "https://www.feastvirginia.com/",
+        "times picked": 20,
+        "recommendations": [
+            "Kale Salad",
+            "Local Chicken Salad Sandwich Melt",
+            "Edmond Fallot Walnut Dijon Mustard",
+            "Greek Goddess Dressing",
+            "3) Chocolate Covered Peanut Butter Balls",
+            "Chicken Salad",
+            "Meat and Cheese Board",
+            "Nicoise Quinoa Bowl",
+            "Chicken Salad",
+            "Peanut Butter Balls",
+            "Uplands Pleasant Ridge Reserve",
+            "Chocolate Peanut Butter Balls",
+            "Prosciutto Panini Special",
+            "Spanish Tuna Salad and White Bean Salad",
+            "Cheese",
+            "“Grab and Go” Sandwiches",
+            "Meat and Cheese Counter",
+            "raw milk cheeses",
+            "Virginia Prosciutto & Mozzarella Sandwich",
+            "White Bean Salad"
+        ]
+    },
+    {
+        "name": "Ace Biscuit & Barbecue",
+        "url": "https://charlottesville29.com/ace-biscuit-barbecue/",
+        "times picked": 19,
+        "recommendations": [
+            "Bacon Egg and Cheese on a Biscuit",
+            "Brisket",
+            "Chicken and Waffles",
+            "Scrapple",
+            "Ace Burger",
+            "Turkey Dip",
+            "Ol' Dirty Biscuit",
+            "Scrapple, Egg and Cheese Biscuit",
+            "Ol' Dirty Biscuit",
+            "Pulled Pork Sandwich with Fries",
+            "Chicken and Waffles",
+            "Pulled Pork Soul Bowl with Fries and Bold & Spicy Sauce",
+            "Chicken and Waffles",
+            "Bacon, Egg and Cheese Biscuit",
+            "Ol Dirty Biscuit",
+            "Fried Chicken and Waffles",
+            "Baltimore-Style Pit Beef Sandwich",
+            "Fried Chicken & Waffles",
+            "Baltimore-style Pit Beef Sandwich With Creamy Horseradish Sauce"
         ]
     },
     {
@@ -618,61 +800,11 @@
         ]
     },
     {
-        "name": "Now and Zen",
-        "url": "https://www.facebook.com/nowandzensushi/",
-        "times picked": 19,
-        "recommendations": [
-            "Tuna Avocado Carpaccio",
-            "Aburi Salmon",
-            "Octopus Tempura",
-            "Tuna Tartare",
-            "Green Giant Roll",
-            "Salmon Nanban",
-            "Crunchy Spicy Tuna Roll",
-            "5) Crunchy Spicy Tuna Roll",
-            "Raw Fish Salad",
-            "Tuna Carpaccio Salad",
-            "Otoro",
-            "Chirashi Bowl",
-            "Gyoza",
-            "Tuna Carpaccio",
-            "Sushi",
-            "Tofu Steak",
-            "Pork Gyoza",
-            "Gyoza Dumplings"
-        ]
-    },
-    {
-        "name": "Zocalo",
-        "url": "https://charlottesville29.com/2012/04/04/zocalo/",
-        "times picked": 19,
-        "recommendations": [
-            "Vella Jack Cheese Fritters",
-            "Chili Dusted Sea Scallops",
-            "Grilled Salmon",
-            "Tuna Tartare",
-            "Key Lime Free Range Chicken",
-            "Vella Jack Cheese Fritters",
-            "Grilled Salmon",
-            "Cucumber Martini",
-            "Spicy Tuna Tartar",
-            "Parliament",
-            "Vella Jack Cheese Fritters",
-            "Spicy Tuna Tartar",
-            "Vella Jack Cheese Fritter",
-            "Chili Broth Steamed Mussels",
-            "Vella Jack Cheese Fritters",
-            "Spicy Tuna Tartar",
-            "Spicy Tuna Tartar",
-            "Black Bean and Corn Relleno",
-            "Black Bean and Corn Relleno"
-        ]
-    },
-    {
         "name": "Riverside Lunch",
-        "url": "https://www.c-ville.com/chefs-indulge-riverside-lunch/",
-        "times picked": 17,
+        "url": "https://www.facebook.com/Riverside-Lunch-127204539912/",
+        "times picked": 18,
         "recommendations": [
+            "Mini",
             "Bacon Cheeseburger",
             "Burger",
             "Double Bacon Cheeseburger",
@@ -693,34 +825,36 @@
         ]
     },
     {
-        "name": "Feast",
-        "url": "https://www.feastvirginia.com/",
-        "times picked": 17,
+        "name": "Continental Divide",
+        "url": "https://www.facebook.com/The-Continental-Divide-113961648634795/",
+        "times picked": 18,
         "recommendations": [
-            "Greek Goddess Dressing",
-            "3) Chocolate Covered Peanut Butter Balls",
-            "Chicken Salad",
-            "Meat and Cheese Board",
-            "Nicoise Quinoa Bowl",
-            "Chicken Salad",
-            "Peanut Butter Balls",
-            "Uplands Pleasant Ridge Reserve",
-            "Chocolate Peanut Butter Balls",
-            "Prosciutto Panini Special",
-            "Spanish Tuna Salad and White Bean Salad",
-            "Cheese",
-            "“Grab and Go” Sandwiches",
-            "Meat and Cheese Counter",
-            "raw milk cheeses",
-            "Virginia Prosciutto & Mozzarella Sandwich",
-            "White Bean Salad"
+            "Wait a Minute Sauce",
+            "Santa Fe Enchiladas",
+            "Brownie A La Mode",
+            "Red Hot Blues",
+            "HAY! Straws",
+            "Black Bean Nachos",
+            "Red Hot Blues",
+            "Santa Fe Enchiladas",
+            "Spinach & Mushroom Enchiladas with a Reposado Tequila, Cointreau Margarita with salt",
+            "Red Hot Blues",
+            "Red Hot Blues with “Wait a Minute” Hot Sauce",
+            "Tuna Tostada",
+            "Santa Fe Enchiladas",
+            "Red Hot Blues",
+            "Red Hot Blues",
+            "Santa Fe Enchilada",
+            "Margarita",
+            "Sante Fe Enchilada"
         ]
     },
     {
         "name": "Pad Thai",
         "url": "https://charlottesville29.com/2014/04/21/pad-thai/",
-        "times picked": 17,
+        "times picked": 18,
         "recommendations": [
+            "Stir Fried Cabbage",
             "Tofu and Veggie Drunken Noodles",
             "Som Tum",
             "Tom Kha Soup",
@@ -741,56 +875,58 @@
         ]
     },
     {
-        "name": "Continental Divide",
-        "url": "https://www.facebook.com/pages/category/Southwestern-Restaurant/The-Continental-Divide-113961648634795/",
-        "times picked": 16,
+        "name": "MarieBette",
+        "url": "https://www.chimmtaste.com/",
+        "times picked": 17,
         "recommendations": [
-            "Brownie A La Mode",
-            "Red Hot Blues",
-            "HAY! Straws",
-            "Black Bean Nachos",
-            "Red Hot Blues",
-            "Santa Fe Enchiladas",
-            "Spinach & Mushroom Enchiladas with a Reposado Tequila, Cointreau Margarita with salt",
-            "Red Hot Blues",
-            "Red Hot Blues with “Wait a Minute” Hot Sauce",
-            "Tuna Tostada",
-            "Santa Fe Enchiladas",
-            "Red Hot Blues",
-            "Red Hot Blues",
-            "Santa Fe Enchilada",
-            "Margarita",
-            "Sante Fe Enchilada"
+            "Financier",
+            "Bacon, Egg, and Cheese",
+            "Everything Prezzant",
+            "Almond Croissant",
+            "Lemon Ricotta Pancakes",
+            "Pretzel Croissant (Everything",
+            "Canelés",
+            "Lacinato Kale Salad",
+            "Pastry",
+            "Chocolate Almond Croissant",
+            "Petit Kouign Aman",
+            "Brioche",
+            "Espresso",
+            "Baguette",
+            "Canelés",
+            "Kouign Amann",
+            "Chocolate Almond Croissant"
         ]
     },
     {
-        "name": "Ace Biscuit & Barbecue",
-        "url": "https://charlottesville29.com/ace-biscuit-barbecue/",
+        "name": "Public Fish and Oyster",
+        "url": "https://charlottesville29.com/2016/03/10/public-fish-oyster/",
         "times picked": 16,
         "recommendations": [
-            "Scrapple",
-            "Ace Burger",
-            "Turkey Dip",
-            "Ol' Dirty Biscuit",
-            "Scrapple, Egg and Cheese Biscuit",
-            "Ol' Dirty Biscuit",
-            "Pulled Pork Sandwich with Fries",
-            "Chicken and Waffles",
-            "Pulled Pork Soul Bowl with Fries and Bold & Spicy Sauce",
-            "Chicken and Waffles",
-            "Bacon, Egg and Cheese Biscuit",
-            "Ol Dirty Biscuit",
-            "Fried Chicken and Waffles",
-            "Baltimore-Style Pit Beef Sandwich",
-            "Fried Chicken & Waffles",
-            "Baltimore-style Pit Beef Sandwich With Creamy Horseradish Sauce"
+            "The Hodgepodge",
+            "Moules Frites Mariniere",
+            "Happy Hour Oysters and Clam Chowder",
+            "Belgian fries and aioli",
+            "Oysters",
+            "Angels on Horseback",
+            "Moules Frites",
+            "Fresh Oysters, French Fries and Sauvignon Blanc",
+            "A Dozen Oysters and a Glass of Chablis",
+            "The Importance of Being Earnest",
+            "Oysters, French Fries and a Glass of Chablis",
+            "Fresh Oysters and Frites with Garlic Aioli",
+            "Happy Hour Oysters",
+            "Lobster",
+            "Thai Mussels",
+            "Bangkok Mussels"
         ]
     },
     {
         "name": "Three Notch'd Craft Kitchen & Brewery",
         "url": "https://threenotchdbrewing.com/charlottesville-craft-kitchen-brewery/",
-        "times picked": 15,
+        "times picked": 16,
         "recommendations": [
+            "40 Mile Philly",
             "Fish and Chips",
             "Fish and Chips",
             "Pork Belly Banh Mi",
@@ -809,10 +945,95 @@
         ]
     },
     {
+        "name": "Greenwood Grocery",
+        "url": "http://www.greenwoodva.com/",
+        "times picked": 15,
+        "recommendations": [
+            "Blue Slate",
+            "Wessex",
+            "Kale and Walnut Salad",
+            "Kale Caesar",
+            "Al Fresco Lunch",
+            "Roast Pork with Fennel Sandwich",
+            "Melrose",
+            "Chickpea Salad",
+            "Roasted Pork Sandwich",
+            "Double Espresso",
+            "Winter Quiche",
+            "Country Ham and Apple Chutney Sandwich",
+            "Egg Salad Sandwich",
+            "The Riviera",
+            "Picnic lunch"
+        ]
+    },
+    {
+        "name": "MarieBette Café & Bakery",
+        "url": "https://charlottesville29.com/2017/02/09/mariebette/",
+        "times picked": 14,
+        "recommendations": [
+            "Bacon Egg and Cheese on a Croissant",
+            "Everything Baguette",
+            "Pecan Bun",
+            "Buttermilk Pancakes",
+            "Financiers",
+            "Tuna Nicoise and Muscadet or Sauvignon Blanc",
+            "Quiche",
+            "Five Grain Bread",
+            "Chocolate Almond Croissant",
+            "Financiers",
+            "Chocolate Croissant",
+            "Canelés",
+            "Canelés De Bordeaux",
+            "Quiche Lorraine"
+        ]
+    },
+    {
+        "name": "Splendora's Gelato Cafe",
+        "url": "https://www.facebook.com/SplendorasGelato/",
+        "times picked": 14,
+        "recommendations": [
+            "Thai Tea Gelato",
+            "Dulce de Leche Gelato",
+            "Chocolate Gelato",
+            "Chipotle Chocolate Gelato",
+            "Honey Gelato",
+            "Iced Mocha",
+            "Affogato",
+            "Large Iced Americano",
+            "Panna Cotta Gelato",
+            "Iced Coffee",
+            "Bambino Cone",
+            "Hot Chocolate",
+            "Roasted Almond gelato",
+            "Thai Iced Tea Gelato"
+        ]
+    },
+    {
+        "name": "Orzo Kitchen and Wine Bar",
+        "url": "http://orzokitchen.com/",
+        "times picked": 13,
+        "recommendations": [
+            "Peasant Beef & Pork Bolognese",
+            "Halloumi Appetizer",
+            "Spanish Olive Oil and Rosemary Cake",
+            "Roasted PEI Mussels",
+            "Chocolate Pot de Crème",
+            "Tomato Bisque",
+            "Semisweet Chocolate Pot de Creme",
+            "Chicken Cassoulet",
+            "Aspen Ridge Farm Hamburger",
+            "Seared Greek Halloumi Cheese",
+            "Octopus",
+            "Octopus",
+            "Saganaki"
+        ]
+    },
+    {
         "name": "The Pie Chest",
         "url": "https://thepiechestcville.com/",
-        "times picked": 12,
+        "times picked": 13,
         "recommendations": [
+            "Triple Citrus Pie",
             "Mushroom, Leek, and Gruyere Pot Pie",
             "Honey, Sausage, Goat Cheese and Egg Hand pies",
             "Hand Pie w/ Scrambled Egg, Yukon Potato, Cheddar, and Gravy",
@@ -828,22 +1049,60 @@
         ]
     },
     {
-        "name": "Public Fish and Oyster",
-        "url": "https://charlottesville29.com/2016/03/10/public-fish-oyster/",
+        "name": "Monsoon Siam",
+        "url": "https://www.monsoonsiamcville.com/",
         "times picked": 12,
         "recommendations": [
-            "Oysters",
-            "Angels on Horseback",
-            "Moules Frites",
-            "Fresh Oysters, French Fries and Sauvignon Blanc",
-            "A Dozen Oysters and a Glass of Chablis",
-            "The Importance of Being Earnest",
-            "Oysters, French Fries and a Glass of Chablis",
-            "Fresh Oysters and Frites with Garlic Aioli",
-            "Happy Hour Oysters",
-            "Lobster",
-            "Thai Mussels",
-            "Bangkok Mussels"
+            "Ka Pow Crispy Pork Belly",
+            "Kao Soi",
+            "Fresh Rolls",
+            "Tofu Soup",
+            "Num Tok and Thai Tea",
+            "Kao Soi",
+            "Noodle Beef Soup",
+            "Papaya Salad (Som Tum",
+            "Chicken Kao Soi",
+            "Tom Yum Soup",
+            "Massaman Curry with Tofu",
+            "Cigar Rolls and Drunken Noodle"
+        ]
+    },
+    {
+        "name": "Brazos Tacos",
+        "url": "https://www.toasttab.com/brazos-tacos-1/v3/?mode=fulfillment",
+        "times picked": 12,
+        "recommendations": [
+            "Migas Taco",
+            "Any Taco",
+            "Triple Pickle Taco",
+            "The Bill",
+            "Migas Tacos",
+            "That's My Yam or The Solid",
+            "Migas Plato with Chorizo",
+            "Potato, Egg, and Cheese Taco",
+            "ork Star Taco",
+            "Pupusa",
+            "Austin Morning",
+            "I Love You So Much"
+        ]
+    },
+    {
+        "name": "Taste of China",
+        "url": "https://www.tasteofchinacharlottesville.com/",
+        "times picked": 12,
+        "recommendations": [
+            "Cabbage with Black Vinegar",
+            "Cumin Tofu",
+            "Xiao Long Bao",
+            "Ma La Fish",
+            "Crispy Beef",
+            "Scallion Bubble Pancake",
+            "Dried Fried Eggplant Szechuan Style",
+            "Dan Dan Noodles",
+            "Dried Fried Eggplan",
+            "Pork Belly with Leeks",
+            "Crispy Fried Eggplant",
+            "Honey Shrimp with Chili Sauce"
         ]
     },
     {
@@ -885,21 +1144,75 @@
         ]
     },
     {
-        "name": "Splendora's Gelato Cafe",
-        "url": "http://www.splendoras.com/",
+        "name": "Pearl Island Café",
+        "url": "https://pearlislandcatering.com/cafe",
         "times picked": 11,
         "recommendations": [
-            "Chipotle Chocolate Gelato",
-            "Honey Gelato",
-            "Iced Mocha",
-            "Affogato",
-            "Large Iced Americano",
-            "Panna Cotta Gelato",
-            "Iced Coffee",
-            "Bambino Cone",
-            "Hot Chocolate",
-            "Roasted Almond gelato",
-            "Thai Iced Tea Gelato"
+            "Creole Beans Platter",
+            "Cauliflower Sous Shu",
+            "Oxtail",
+            "Chicken Sous Poulet, with kale salad, plantains and pikliz",
+            "Creole Beans",
+            "Trifecta",
+            "Creole Beans and Rice",
+            "Sous Poulet",
+            "Chicken",
+            "Slow Roasted Pork",
+            "Fried Plantains"
+        ]
+    },
+    {
+        "name": "Jack Brown's Beer and Burger Joint",
+        "url": "https://www.jackbrownsjoint.com/locations/charlottesville/",
+        "times picked": 11,
+        "recommendations": [
+            "The Cowboy",
+            "Greg Brady",
+            "Greg Brady",
+            "Cheeseburger",
+            "Ponch Burger",
+            "Jalapeño Popper Burger",
+            "Danny Laruso Burger",
+            "Deep Fried Oreos",
+            "Greg Brady w/Bacon",
+            "Greg Brady",
+            "Cheeseburger"
+        ]
+    },
+    {
+        "name": "Petit Pois",
+        "url": "https://charlottesville29.com/2015/02/04/petit-pois/",
+        "times picked": 11,
+        "recommendations": [
+            "Grilled Local Pork with Spatzle, Kale",
+            "Chicken Liver Mousse",
+            "Chicken Liver Mousse",
+            "Frisee Salad",
+            "Sausage Béchamel",
+            "Focaccia and Poached Eggs",
+            "Beef Tartare",
+            "Profiteroles",
+            "Escargot",
+            "Hangar Steak",
+            "Mousse de Foie de Volaille"
+        ]
+    },
+    {
+        "name": "Brasserie Saison",
+        "url": "https://charlottesville29.com/2019/03/06/brasserie-saison/",
+        "times picked": 11,
+        "recommendations": [
+            "Chocolate Ice Cream",
+            "Crispy Scallops",
+            "Fried and Raw Brussels Sprouts",
+            "Amari",
+            "Deviled Egg Dip with Savory Waffles and Crispy Potatoes",
+            "Salted Dark Chocolate Sorbet",
+            "Fried and Raw Brussels Sprouts",
+            "Moules Frites",
+            "Fried & Raw Brussels Sprouts",
+            "Beet Salad",
+            "Chicken Liver Toast"
         ]
     },
     {
@@ -939,108 +1252,54 @@
         ]
     },
     {
-        "name": "Taste of China",
-        "url": "http://www.tasteofchinacharlottesville.com/",
-        "times picked": 11,
-        "recommendations": [
-            "Cumin Tofu",
-            "Xiao Long Bao",
-            "Ma La Fish",
-            "Crispy Beef",
-            "Scallion Bubble Pancake",
-            "Dried Fried Eggplant Szechuan Style",
-            "Dan Dan Noodles",
-            "Dried Fried Eggplan",
-            "Pork Belly with Leeks",
-            "Crispy Fried Eggplant",
-            "Honey Shrimp with Chili Sauce"
-        ]
-    },
-    {
-        "name": "MarieBette Café & Bakery",
-        "url": "https://charlottesville29.com/2017/02/09/mariebette/",
-        "times picked": 11,
-        "recommendations": [
-            "Buttermilk Pancakes",
-            "Financiers",
-            "Tuna Nicoise and Muscadet or Sauvignon Blanc",
-            "Quiche",
-            "Five Grain Bread",
-            "Chocolate Almond Croissant",
-            "Financiers",
-            "Chocolate Croissant",
-            "Canelés",
-            "Canelés De Bordeaux",
-            "Quiche Lorraine"
-        ]
-    },
-    {
-        "name": "Greenwood Grocery",
-        "url": "http://www.greenwoodva.com/",
-        "times picked": 11,
-        "recommendations": [
-            "Al Fresco Lunch",
-            "Roast Pork with Fennel Sandwich",
-            "Melrose",
-            "Chickpea Salad",
-            "Roasted Pork Sandwich",
-            "Double Espresso",
-            "Winter Quiche",
-            "Country Ham and Apple Chutney Sandwich",
-            "Egg Salad Sandwich",
-            "The Riviera",
-            "Picnic lunch"
-        ]
-    },
-    {
-        "name": "MarieBette",
-        "url": "https://charlottesville29.com/2017/02/09/mariebette/",
+        "name": "Bang",
+        "url": "https://www.bangrestaurant.net/",
         "times picked": 10,
         "recommendations": [
-            "Lacinato Kale Salad",
-            "Pastry",
-            "Chocolate Almond Croissant",
-            "Petit Kouign Aman",
-            "Brioche",
-            "Espresso",
-            "Baguette",
-            "Canelés",
-            "Kouign Amann",
-            "Chocolate Almond Croissant"
+            "Fried Chicken Steamed Buns, Spicy Garlic Sauce, House Pickles",
+            "Key Lime Martini",
+            "General Tso's Cauliflower and Coconut Rice",
+            "Kale Tortellini",
+            "Honey Ginger Martini",
+            "Tuna Nori Roll",
+            "Beet Salad with Ginger Vinaigrette and Chevre",
+            "Crab Pot Stickers",
+            "Pork Spring Rolls",
+            "Martinis"
         ]
     },
     {
-        "name": "Brasserie Saison",
-        "url": "https://charlottesville29.com/2019/03/06/brasserie-saison/",
+        "name": "Duner's Restaurant",
+        "url": "https://charlottesville29.com/2016/03/16/duners/",
         "times picked": 10,
         "recommendations": [
-            "Crispy Scallops",
-            "Fried and Raw Brussels Sprouts",
-            "Amari",
-            "Deviled Egg Dip with Savory Waffles and Crispy Potatoes",
-            "Salted Dark Chocolate Sorbet",
-            "Fried and Raw Brussels Sprouts",
-            "Moules Frites",
-            "Fried & Raw Brussels Sprouts",
-            "Beet Salad",
-            "Chicken Liver Toast"
+            "Deep-Fried Flounder",
+            "Dumplings",
+            "Grilled Sea Scallops",
+            "Chocolate Truffle Torte",
+            "Fried Oysters with Aioli",
+            "Fried Oysters",
+            "Fried Oysters",
+            "ANY Dessert",
+            "Crab Cakes",
+            "Fried Oysters"
         ]
     },
     {
-        "name": "Monsoon Siam",
-        "url": "https://www.monsoonsiamcville.com/",
+        "name": "Caromont Farm",
+        "url": "http://www.caromontcheese.com/",
         "times picked": 10,
         "recommendations": [
-            "Fresh Rolls",
-            "Tofu Soup",
-            "Num Tok and Thai Tea",
-            "Kao Soi",
-            "Noodle Beef Soup",
-            "Papaya Salad (Som Tum",
-            "Chicken Kao Soi",
-            "Tom Yum Soup",
-            "Massaman Curry with Tofu",
-            "Cigar Rolls and Drunken Noodle"
+            "Truffle Chèvre",
+            "Truffle Chèvre",
+            "Cheese",
+            "Goat Cheese",
+            "Red Row",
+            "Chevre",
+            "Red Row",
+            "Esmontonian",
+            "Red Row",
+            "Bloomsbury"
         ]
     },
     {
@@ -1061,20 +1320,20 @@
         ]
     },
     {
-        "name": "Orzo Kitchen and Wine Bar",
-        "url": "http://orzokitchen.com/",
+        "name": "Citizen Burger Bar",
+        "url": "https://www.citizenburgerbarcville.com/",
         "times picked": 10,
         "recommendations": [
-            "Roasted PEI Mussels",
-            "Chocolate Pot de Crème",
-            "Tomato Bisque",
-            "Semisweet Chocolate Pot de Creme",
-            "Chicken Cassoulet",
-            "Aspen Ridge Farm Hamburger",
-            "Seared Greek Halloumi Cheese",
-            "Octopus",
-            "Octopus",
-            "Saganaki"
+            "Shishito Peppers",
+            "Timbercreek Burger",
+            "The Steakhouse Burger",
+            "Whatever David Pours",
+            "Kinda Vegan Burger",
+            "The Hotness",
+            "The Hotness",
+            "Burger Cooked “Red” with Fries and a Pickle",
+            "Truffle Fries",
+            "Shishito Peppers"
         ]
     },
     {
@@ -1095,23 +1354,6 @@
         ]
     },
     {
-        "name": "Petit Pois",
-        "url": "https://charlottesville29.com/2015/02/04/petit-pois/",
-        "times picked": 10,
-        "recommendations": [
-            "Chicken Liver Mousse",
-            "Chicken Liver Mousse",
-            "Frisee Salad",
-            "Sausage Béchamel",
-            "Focaccia and Poached Eggs",
-            "Beef Tartare",
-            "Profiteroles",
-            "Escargot",
-            "Hangar Steak",
-            "Mousse de Foie de Volaille"
-        ]
-    },
-    {
         "name": "Champion Tap Room",
         "url": "https://www.facebook.com/championtaproom/",
         "times picked": 10,
@@ -1129,19 +1371,67 @@
         ]
     },
     {
-        "name": "Caromont Farm",
-        "url": "http://www.caromontcheese.com/",
+        "name": "The Juice Laundry",
+        "url": "https://www.thejuicelaundry.com/",
         "times picked": 9,
         "recommendations": [
-            "Truffle Chèvre",
-            "Cheese",
-            "Goat Cheese",
-            "Red Row",
-            "Chevre",
-            "Red Row",
-            "Esmontonian",
-            "Red Row",
-            "Bloomsbury"
+            "Gentle Green",
+            "Chili",
+            "Clean Green",
+            "Rinse and Re-Beet",
+            "Cold Brew Latte",
+            "CB&J Smoothie",
+            "Vegan Chili",
+            "The Blaze",
+            "The Superman"
+        ]
+    },
+    {
+        "name": "The Ivy Inn Restaurant",
+        "url": "https://charlottesville29.com/the-ivy-inn-restaurant/",
+        "times picked": 9,
+        "recommendations": [
+            "Shrimp and Grits",
+            "Doe Hill Pepper Bisque",
+            "Roast Lamb",
+            "Foie Gras",
+            "Mustard Crusted Rack of Lamb",
+            "Duet of Lamb “Greek Style”",
+            "Date Night",
+            "Warm Medley of amFog Wild Mushrooms",
+            "Slow Cooked Veal Shank Osso Bucco"
+        ]
+    },
+    {
+        "name": "Ivy Provisions",
+        "url": "https://www.ivyprovisions.com/",
+        "times picked": 9,
+        "recommendations": [
+            "Sloppy Jose",
+            "K.I.S.S. Caprese",
+            "Chicken Shack",
+            "El Fuego Wrap",
+            "IVP Banh Mi",
+            "En Fuego Wrap",
+            "The Gobbfather",
+            "IVP Banh Mi",
+            "Notorious P.I.G"
+        ]
+    },
+    {
+        "name": "Paradox Pastry",
+        "url": "http://www.paradoxpastrycafe.com/menu-3/",
+        "times picked": 9,
+        "recommendations": [
+            "Almond Pave Cake",
+            "Cinnamon Maple Twist",
+            "Almond Pavé",
+            "Italian Cream Cake",
+            "Guinness Chocolate Cake",
+            "Pastries",
+            "Ham and Cheese Croissant",
+            "Almond Croissant",
+            "Blueberry Handpie"
         ]
     },
     {
@@ -1161,79 +1451,78 @@
         ]
     },
     {
-        "name": "Citizen Burger Bar",
-        "url": "https://www.citizenburgerbarcville.com/",
-        "times picked": 9,
+        "name": "La Flor Michoacana Ice Cream Shop",
+        "url": "https://laflormichoacana.com/",
+        "times picked": 8,
         "recommendations": [
-            "Shishito Peppers",
-            "Timbercreek Burger",
-            "The Steakhouse Burger",
-            "Whatever David Pours",
-            "Kinda Vegan Burger",
-            "The Hotness",
-            "The Hotness",
-            "Burger Cooked “Red” with Fries and a Pickle",
-            "Truffle Fries"
+            "Tres Leche Popsicle",
+            "Mint Chocolate Chip Ice Cream",
+            "Mamey Paleta",
+            "Mango Chili Popsicle",
+            "Paletas",
+            "Pistachio Popsicle",
+            "Nance Ice Cream",
+            "Marañón Paletas"
         ]
     },
     {
-        "name": "Brazos Tacos",
-        "url": "https://brazostacos.square.site/",
+        "name": "Little Star",
+        "url": "https://charlottesville29.com/2020/03/03/little-star/",
         "times picked": 8,
         "recommendations": [
-            "Migas Tacos",
-            "That's My Yam or The Solid",
-            "Migas Plato with Chorizo",
-            "Potato, Egg, and Cheese Taco",
-            "ork Star Taco",
-            "Pupusa",
-            "Austin Morning",
-            "I Love You So Much"
+            "Pig Mac",
+            "Pan Tomate",
+            "Cantarito con Tequila",
+            "Beef Back Ribs",
+            "Watermelon Salad with Crab",
+            "Porky Things",
+            "Patatas Rancheras",
+            "Mole"
         ]
     },
     {
-        "name": "Jack Brown's Beer and Burger Joint",
-        "url": "https://www.jackbrownsjoint.com/locations/charlottesville/",
+        "name": "Vu Noodles",
+        "url": "https://www.vunoodles.com/",
         "times picked": 8,
         "recommendations": [
-            "Cheeseburger",
-            "Ponch Burger",
-            "Jalapeño Popper Burger",
-            "Danny Laruso Burger",
-            "Deep Fried Oreos",
-            "Greg Brady w/Bacon",
-            "Greg Brady",
-            "Cheeseburger"
+            "Pho and Crispy Rolls",
+            "Tofu Caramelized Onions Noodles",
+            "Ginger Lemongrass Noodles",
+            "Spring Rolls",
+            "Banh Mi",
+            "Vegan Pho",
+            "Tofu Caramelized Onions",
+            "Tofu Banh Mi"
         ]
     },
     {
-        "name": "Duner's Restaurant",
-        "url": "https://charlottesville29.com/2016/03/16/duners/",
+        "name": "Vivace",
+        "url": "https://www.vivacecville.com/",
         "times picked": 8,
         "recommendations": [
-            "Grilled Sea Scallops",
-            "Chocolate Truffle Torte",
-            "Fried Oysters with Aioli",
-            "Fried Oysters",
-            "Fried Oysters",
-            "ANY Dessert",
-            "Crab Cakes",
-            "Fried Oysters"
+            "Shrimp Scampi with Risotto",
+            "Orecchiette, House Sausage, Broccoli Rabe",
+            "Fried Calamari",
+            "Tagliatelle w/ Ragu Alla Bolognese",
+            "Polpette",
+            "Risotto",
+            "Martinis and Meatballs",
+            "The bar and the man who makes it, Paulie"
         ]
     },
     {
-        "name": "Ivy Provisions",
-        "url": "https://www.ivyprovisions.com/",
+        "name": "Mel's Cafe",
+        "url": "https://www.c-ville.com/mel-mels-chef-melissa-close-hart-savors-taste-home-mels-cafe/",
         "times picked": 8,
         "recommendations": [
-            "K.I.S.S. Caprese",
-            "Chicken Shack",
-            "El Fuego Wrap",
-            "IVP Banh Mi",
-            "En Fuego Wrap",
-            "The Gobbfather",
-            "IVP Banh Mi",
-            "Notorious P.I.G"
+            "Potato Salad",
+            "Fried Chicken and Onion Rings",
+            "Fried Chicken and/or Meta's Burger with Crushed Ice Soda",
+            "One-Eye Burger",
+            "Meta",
+            "Liver and Onions",
+            "Grilled Bologna and Egg Sandwich",
+            "Big Burger and Grilled Cheese"
         ]
     },
     {
@@ -1252,21 +1541,6 @@
         ]
     },
     {
-        "name": "The Ivy Inn Restaurant",
-        "url": "https://charlottesville29.com/the-ivy-inn-restaurant/",
-        "times picked": 8,
-        "recommendations": [
-            "Doe Hill Pepper Bisque",
-            "Roast Lamb",
-            "Foie Gras",
-            "Mustard Crusted Rack of Lamb",
-            "Duet of Lamb “Greek Style”",
-            "Date Night",
-            "Warm Medley of amFog Wild Mushrooms",
-            "Slow Cooked Veal Shank Osso Bucco"
-        ]
-    },
-    {
         "name": "Brookville Restaurant",
         "url": "http://charlottesville29.com/brookville/",
         "times picked": 8,
@@ -1278,6 +1552,48 @@
             "Burger",
             "Doughnuts",
             "perfect runny egg"
+        ]
+    },
+    {
+        "name": "Bizou",
+        "url": "https://charlottesville29.com/2016/03/14/bizou/",
+        "times picked": 7,
+        "recommendations": [
+            "Any Soup",
+            "Grilled Banana Bread",
+            "Meatloaf",
+            "Kouign Amann",
+            "Steak Bavette",
+            "Meatloaf and Good Beaujolais",
+            "Meatloaf"
+        ]
+    },
+    {
+        "name": "Foods of All Nations",
+        "url": "http://www.foodsofallnations.com/",
+        "times picked": 7,
+        "recommendations": [
+            "Waje Sushi",
+            "Rice Pudding",
+            "Albacore Sushi",
+            "Ham Biscuits and Chenin Blanc",
+            "Cinnamon Toast Crunch S'mores Bars",
+            "Lobster Roll",
+            "1) Linzer Cookie"
+        ]
+    },
+    {
+        "name": "Blue Moon Diner",
+        "url": "https://www.facebook.com/BlueMoonDinerVA/",
+        "times picked": 7,
+        "recommendations": [
+            "Chocolate Chip Beignets",
+            "Breakfast BBQ",
+            "Elvis Ice Cream Sandwich",
+            "Huevos Bluemoonos",
+            "Smoked Trout Sandwich",
+            "Burger",
+            "Pancakes"
         ]
     },
     {
@@ -1323,20 +1639,6 @@
         ]
     },
     {
-        "name": "Mel's Cafe",
-        "url": "https://charlottesville29.com/2018/02/27/mels-cafe/",
-        "times picked": 7,
-        "recommendations": [
-            "Fried Chicken and Onion Rings",
-            "Fried Chicken and/or Meta's Burger with Crushed Ice Soda",
-            "One-Eye Burger",
-            "Meta",
-            "Liver and Onions",
-            "Grilled Bologna and Egg Sandwich",
-            "Big Burger and Grilled Cheese"
-        ]
-    },
-    {
         "name": "Fardowners",
         "url": "http://www.fardowners.com/",
         "times picked": 7,
@@ -1348,20 +1650,6 @@
             "Tachos",
             "House-smoked Pastrami Reuben",
             "Hippie Wings (with Ghost Rider sauce if you dare) and Festie Amber Lager"
-        ]
-    },
-    {
-        "name": "Vivace",
-        "url": "http://www.vivacecville.com/",
-        "times picked": 7,
-        "recommendations": [
-            "Orecchiette, House Sausage, Broccoli Rabe",
-            "Fried Calamari",
-            "Tagliatelle w/ Ragu Alla Bolognese",
-            "Polpette",
-            "Risotto",
-            "Martinis and Meatballs",
-            "The bar and the man who makes it, Paulie"
         ]
     },
     {
@@ -1393,16 +1681,16 @@
         ]
     },
     {
-        "name": "Foods of All Nations",
-        "url": "http://www.foodsofallnations.com/",
+        "name": "Sussex Farm",
+        "url": "https://www.facebook.com/sussexfarmkimchi/",
         "times picked": 6,
         "recommendations": [
-            "Rice Pudding",
-            "Albacore Sushi",
-            "Ham Biscuits and Chenin Blanc",
-            "Cinnamon Toast Crunch S'mores Bars",
-            "Lobster Roll",
-            "1) Linzer Cookie"
+            "Korean Cabbage Kimchi",
+            "Kimchi Pancake",
+            "Korean Ramen",
+            "Dumpling Soup",
+            "Bulgogi Sliders with Sunny Side Up Egg",
+            "Radish Top Kimchi"
         ]
     },
     {
@@ -1416,19 +1704,6 @@
             "Lad Na",
             "Tofu Vegetable Pho",
             "Guay Tiew Ruea"
-        ]
-    },
-    {
-        "name": "Blue Moon Diner",
-        "url": "https://www.facebook.com/BlueMoonDinerVA/",
-        "times picked": 6,
-        "recommendations": [
-            "Breakfast BBQ",
-            "Elvis Ice Cream Sandwich",
-            "Huevos Bluemoonos",
-            "Smoked Trout Sandwich",
-            "Burger",
-            "Pancakes"
         ]
     },
     {
@@ -1458,58 +1733,6 @@
         ]
     },
     {
-        "name": "The Juice Laundry",
-        "url": "https://www.thejuicelaundry.com/",
-        "times picked": 6,
-        "recommendations": [
-            "Rinse and Re-Beet",
-            "Cold Brew Latte",
-            "CB&J Smoothie",
-            "Vegan Chili",
-            "The Blaze",
-            "The Superman"
-        ]
-    },
-    {
-        "name": "Bang",
-        "url": "https://www.bangrestaurant.net/",
-        "times picked": 6,
-        "recommendations": [
-            "Honey Ginger Martini",
-            "Tuna Nori Roll",
-            "Beet Salad with Ginger Vinaigrette and Chevre",
-            "Crab Pot Stickers",
-            "Pork Spring Rolls",
-            "Martinis"
-        ]
-    },
-    {
-        "name": "Pearl Island Café",
-        "url": "http://www.pearlislandcatering.com/",
-        "times picked": 6,
-        "recommendations": [
-            "Trifecta",
-            "Creole Beans and Rice",
-            "Sous Poulet",
-            "Chicken",
-            "Slow Roasted Pork",
-            "Fried Plantains"
-        ]
-    },
-    {
-        "name": "Paradox Pastry",
-        "url": "http://www.paradoxpastrycafe.com/",
-        "times picked": 6,
-        "recommendations": [
-            "Italian Cream Cake",
-            "Guinness Chocolate Cake",
-            "Pastries",
-            "Ham and Cheese Croissant",
-            "Almond Croissant",
-            "Blueberry Handpie"
-        ]
-    },
-    {
         "name": "El Tepeyac",
         "url": "http://charlottesville29.com/2014/03/22/el-tepeyac/",
         "times picked": 6,
@@ -1533,6 +1756,78 @@
             "Pollo Tacos with Salsa Verde",
             "Tacos de Carnitas",
             "Taco de Pollo"
+        ]
+    },
+    {
+        "name": "Fry's Spring Station",
+        "url": "https://www.eatatfrys.com/",
+        "times picked": 5,
+        "recommendations": [
+            "Piggie Smalls",
+            "Piggie Smalls Pizza",
+            "The Dude Abides",
+            "Made To Order Mozzarella",
+            "Frito Cianci"
+        ]
+    },
+    {
+        "name": "Sultan Kebab",
+        "url": "https://charlottesville29.com/2016/03/18/sultan-kebab/",
+        "times picked": 5,
+        "recommendations": [
+            "Sigara Börek",
+            "Manti",
+            "Sucuk Platter",
+            "Appetizers",
+            "Manti"
+        ]
+    },
+    {
+        "name": "Smoked Kitchen and Tap",
+        "url": "https://www.smokedkt.com/",
+        "times picked": 5,
+        "recommendations": [
+            "Collard Greens",
+            "Fried Chicken with Waffles and a Vanilla Milkshake",
+            "Cheesy Bacon Potatoes",
+            "Brisket & Cheese Sandwich",
+            "Pastrami Reuben"
+        ]
+    },
+    {
+        "name": "Doma Korean Kitchen",
+        "url": "https://domakoreankitchen.com/",
+        "times picked": 5,
+        "recommendations": [
+            "Kimchi Pancake",
+            "4) Tofu Bibimbap (without egg",
+            "Chicken Wings",
+            "Wings",
+            "Chicken Lunch Box"
+        ]
+    },
+    {
+        "name": "Cicchetti Bar at Tavola",
+        "url": "https://tavolavino.com/cicchetti-craft-cocktails/",
+        "times picked": 5,
+        "recommendations": [
+            "Alpha and Omega",
+            "Witchcraft",
+            "House Gin and Tonic",
+            "Dealer's Choice",
+            "Feel Adventurous"
+        ]
+    },
+    {
+        "name": "Miller's Downtown",
+        "url": "https://www.millersdowntown.com/",
+        "times picked": 5,
+        "recommendations": [
+            "Nasty Chicken Biscuit",
+            "Rib-Eye Steak & Cheese",
+            "Chicken Wings",
+            "Whiskey",
+            "PBR"
         ]
     },
     {
@@ -1560,18 +1855,6 @@
         ]
     },
     {
-        "name": "La Flor Michoacana Ice Cream Shop",
-        "url": "http://www.laflormichoacana.com/",
-        "times picked": 5,
-        "recommendations": [
-            "Mango Chili Popsicle",
-            "Paletas",
-            "Pistachio Popsicle",
-            "Nance Ice Cream",
-            "Marañón Paletas"
-        ]
-    },
-    {
         "name": "The Fitzroy",
         "url": "http://www.thefitzroycville.com/",
         "times picked": 5,
@@ -1581,18 +1864,6 @@
             "Fried Chicken Sandwich w/fries",
             "Oysters Rockefeller",
             "Thick Cut Pork Chop"
-        ]
-    },
-    {
-        "name": "Bizou",
-        "url": "https://charlottesville29.com/2016/03/14/bizou/",
-        "times picked": 5,
-        "recommendations": [
-            "Meatloaf",
-            "Kouign Amann",
-            "Steak Bavette",
-            "Meatloaf and Good Beaujolais",
-            "Meatloaf"
         ]
     },
     {
@@ -1644,6 +1915,237 @@
         ]
     },
     {
+        "name": "Guajiros Miami Eatery",
+        "url": "https://www.guajiros.net/",
+        "times picked": 4,
+        "recommendations": [
+            "Breakfast Bowl",
+            "Café con Leche",
+            "Empanadas",
+            "Queso Frito"
+        ]
+    },
+    {
+        "name": "Kardinal Hall",
+        "url": "https://kardinalhall.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Käsekrainer",
+            "Pastrami Sandwich",
+            "Spice Rubbed Brisket Sandwich",
+            "Pretzel with Obatzda Cheese"
+        ]
+    },
+    {
+        "name": "Chimm",
+        "url": "https://www.chimmtaste.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Vietnamese Bún",
+            "Kao Soi Chicken",
+            "Kao Soi",
+            "Pad See Ew + Chicken Wings + Wonton Soup"
+        ]
+    },
+    {
+        "name": "The Blue Ridge Pig",
+        "url": "https://www.facebook.com/blueridgepig/",
+        "times picked": 4,
+        "recommendations": [
+            "Country Ham Croissant",
+            "Turkey Croissant",
+            "Smoked Turkey Croissant, Potato Salad and Limeade",
+            "Smoked Turkey Croissant"
+        ]
+    },
+    {
+        "name": "Belle",
+        "url": "https://charlottesville29.com/belle-2/",
+        "times picked": 4,
+        "recommendations": [
+            "Jambon Beurre",
+            "Donuts",
+            "English Muffins",
+            "English Muffins"
+        ]
+    },
+    {
+        "name": "Firefly",
+        "url": "https://www.fireflycville.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Portobello Philly",
+            "Vegan Tater Tachos",
+            "Vegan “Crab” Cake Sandwich",
+            "Vegan Wonton Nachos"
+        ]
+    },
+    {
+        "name": "Bowerbird Bakeshop",
+        "url": "https://bowerbirdbakeshop.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Any Vegan Croissant",
+            "Za'atar Croissant",
+            "Morning Melt Sandwich on Everything Croissant",
+            "Almond Dark Chocolate"
+        ]
+    },
+    {
+        "name": "Basan",
+        "url": "https://www.facebook.com/eatbasan",
+        "times picked": 4,
+        "recommendations": [
+            "Basan Paitan",
+            "Spicy Honey Garlic Karaage",
+            "Taiyakis",
+            "Spicy Honey Garlic Karage"
+        ]
+    },
+    {
+        "name": "Iron Paffles & Coffee",
+        "url": "https://www.iron-made.com/",
+        "times picked": 4,
+        "recommendations": [
+            "The Savory Custom",
+            "Chicken Paffle",
+            "Veggie Iron",
+            "Fried Chicken Paffle"
+        ]
+    },
+    {
+        "name": "Tacos Gomez",
+        "url": "https://www.facebook.com/TacosG/",
+        "times picked": 4,
+        "recommendations": [
+            "Al Pastor Taco",
+            "Campechano Tacos",
+            "Torta Al Pastor",
+            "Tacos Al Pastor"
+        ]
+    },
+    {
+        "name": "Little Manila",
+        "url": "https://m.facebook.com/LittleManilaCville/",
+        "times picked": 4,
+        "recommendations": [
+            "Lumpia",
+            "Lumpia",
+            "Filipino BBQ Platter",
+            "Pancit"
+        ]
+    },
+    {
+        "name": "Take It Away Sandwich Shop",
+        "url": "https://www.takeitawaysandwichshop.com/",
+        "times picked": 4,
+        "recommendations": [
+            "House Dressing",
+            "Turkey and Swiss on Sourdough",
+            "Turkey, Havarti, Sprouts, and House Dressing",
+            "Veggie on Rye with House Dressing, add Watercress and a Side of House Dressing, 1/2 pint Exotic Grains, and Rte 66 Dill Pickle Chips"
+        ]
+    },
+    {
+        "name": "The Market",
+        "url": "https://tigerfuelmarkets.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Ednam",
+            "The Birdwood",
+            "Belmont",
+            "Earlysville Sandwich"
+        ]
+    },
+    {
+        "name": "Roots Natural Kitchen",
+        "url": "https://www.rootsnaturalkitchen.com/address/1329-w-main-st-charlottesville-virginia-22903/",
+        "times picked": 4,
+        "recommendations": [
+            "El Jefe",
+            "The Mayweather",
+            "The Mayweather Salad",
+            "The Southern"
+        ]
+    },
+    {
+        "name": "Mochiko",
+        "url": "https://hawaiianfoodcville.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Mochiko Chicken Platter with Watercress and Poke",
+            "Hawaiian Plate with BBQ Chicken, Mac Salad, and Cucumber Kimchi",
+            "Spam Musubi",
+            "Spam Musubi and Pork Lau Lau"
+        ]
+    },
+    {
+        "name": "Market Street Market",
+        "url": "https://www.marketstreetmarket.net/",
+        "times picked": 4,
+        "recommendations": [
+            "Fresh Mozzarella Sandwich",
+            "Prosciutto and Blue Cheese Sandwich",
+            "Herb-roasted Turkey Sandwich",
+            "Prosciutto and Blue Cheese Sandwich"
+        ]
+    },
+    {
+        "name": "L'etoile",
+        "url": "http://letoilecatering.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Soup of the Day",
+            "Weekly Soup",
+            "Hudson Valley Duck breast with Navy Bean Cassoulet",
+            "Veal Sweetbreads and Fried Brussels Sprouts"
+        ]
+    },
+    {
+        "name": "Lone Light Coffee",
+        "url": "https://www.facebook.com/lonelightcoffee/",
+        "times picked": 4,
+        "recommendations": [
+            "Chai Latte",
+            "Cortado",
+            "Almond Milk Cappuccino",
+            "Iced Almond Milk Latte"
+        ]
+    },
+    {
+        "name": "Brioche Feuilletée",
+        "url": "https://charlottesville29.com/2016/06/02/inventing-the-bronut/",
+        "times picked": 4,
+        "recommendations": [
+            "Brioche Feuilletée",
+            "Brioche Feuilletée",
+            "Brioche Feuilletée",
+            "Brioche Feuilletée"
+        ]
+    },
+    {
+        "name": "Gabriele Rausse Winery",
+        "url": "http://www.gabrieleraussewinery.com/",
+        "times picked": 4,
+        "recommendations": [
+            "Food and Wine Pairing",
+            "Rosso",
+            "Viognier and Tim's Fresh Bread with Olive Oil",
+            "2015 Pinot Grigio"
+        ]
+    },
+    {
+        "name": "Dürty Nelly's Pub - Deli",
+        "url": "https://www.facebook.com/durtynellyspubandthewaysidedeli/",
+        "times picked": 4,
+        "recommendations": [
+            "Hot Sicilian",
+            "Dagwood",
+            "Budweiser",
+            "Hot Sicilian"
+        ]
+    },
+    {
         "name": "Junction",
         "url": "https://www.junctionva.com/",
         "times picked": 4,
@@ -1655,28 +2157,6 @@
         ]
     },
     {
-        "name": "Vu Noodles",
-        "url": "https://vunoodles.com/",
-        "times picked": 4,
-        "recommendations": [
-            "Banh Mi",
-            "Vegan Pho",
-            "Tofu Caramelized Onions",
-            "Tofu Banh Mi"
-        ]
-    },
-    {
-        "name": "Little Star",
-        "url": "https://littlestarrestaurant.com/",
-        "times picked": 4,
-        "recommendations": [
-            "Watermelon Salad with Crab",
-            "Porky Things",
-            "Patatas Rancheras",
-            "Mole"
-        ]
-    },
-    {
         "name": "Prime 109",
         "url": "https://charlottesville29.com/2019/02/26/2019-best-new-restaurant-prime-109/",
         "times picked": 4,
@@ -1685,39 +2165,6 @@
             "Parker House Rolls",
             "Meatless Bolognese",
             "Dry Aged Steaks"
-        ]
-    },
-    {
-        "name": "Miller's Downtown",
-        "url": "https://www.millersdowntown.com/",
-        "times picked": 4,
-        "recommendations": [
-            "Rib-Eye Steak & Cheese",
-            "Chicken Wings",
-            "Whiskey",
-            "PBR"
-        ]
-    },
-    {
-        "name": "Cicchetti Bar at Tavola",
-        "url": "https://tavolavino.com/cicchetti-craft-cocktails/",
-        "times picked": 4,
-        "recommendations": [
-            "Witchcraft",
-            "House Gin and Tonic",
-            "Dealer's Choice",
-            "Feel Adventurous"
-        ]
-    },
-    {
-        "name": "Smoked Kitchen and Tap",
-        "url": "https://smokedkt.com/smoked/",
-        "times picked": 4,
-        "recommendations": [
-            "Fried Chicken with Waffles and a Vanilla Milkshake",
-            "Cheesy Bacon Potatoes",
-            "Brisket & Cheese Sandwich",
-            "Pastrami Reuben"
         ]
     },
     {
@@ -1751,17 +2198,6 @@
             "Chicken Francaise",
             "Pasta al Forno",
             "Ragu Bolognese"
-        ]
-    },
-    {
-        "name": "Fry's Spring Station",
-        "url": "http://com/",
-        "times picked": 4,
-        "recommendations": [
-            "Piggie Smalls Pizza",
-            "The Dude Abides",
-            "Made To Order Mozzarella",
-            "Frito Cianci"
         ]
     },
     {
@@ -1853,6 +2289,86 @@
         ]
     },
     {
+        "name": "Tavern & Grocery",
+        "url": "https://www.tavernandgrocery.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Fries & Flip",
+            "Steak and Fromage",
+            "Martinez"
+        ]
+    },
+    {
+        "name": "South and Central",
+        "url": "https://www.southandcentralgrill.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Caipirinha",
+            "Provoleta",
+            "Filet Mignon with Chimichurri Sauce"
+        ]
+    },
+    {
+        "name": "Green House Coffee",
+        "url": "http://www.greenhousecrozet.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Banana Bread",
+            "Banana Nut Bread",
+            "California Turkey Sandwich"
+        ]
+    },
+    {
+        "name": "Afghan Kabob Palace",
+        "url": "https://www.facebook.com/AfghanKabob/",
+        "times picked": 3,
+        "recommendations": [
+            "Complete dinner for Two",
+            "Qabuli Palow and Firnee",
+            "Kofta Kabob"
+        ]
+    },
+    {
+        "name": "South Street Brewery",
+        "url": "https://www.southstreetbrewery.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Southern Fried Chicken",
+            "The Hangover Burger",
+            "Cheese Curds"
+        ]
+    },
+    {
+        "name": "El Puerto",
+        "url": "https://www.elpuertomexicancville.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Chicken Nachos",
+            "Chimichanga",
+            "Fajita Burrito"
+        ]
+    },
+    {
+        "name": "Mona Lisa Pasta",
+        "url": "https://www.monalisapasta.com/frozen-entrees/",
+        "times picked": 3,
+        "recommendations": [
+            "Vegetable Lasagna",
+            "Da Vinci Sandwich",
+            "Pizza"
+        ]
+    },
+    {
+        "name": "Farmstead Ferments",
+        "url": "https://farmsteadferments.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Garlicky Greens Kraut",
+            "Water Kefir Soda",
+            "Apple Kraut"
+        ]
+    },
+    {
         "name": "Super Amanecer",
         "url": "https://www.superamanecer.com/",
         "times picked": 3,
@@ -1883,16 +2399,6 @@
         ]
     },
     {
-        "name": "L'etoile",
-        "url": "http://letoilecatering.com/",
-        "times picked": 3,
-        "recommendations": [
-            "Weekly Soup",
-            "Hudson Valley Duck breast with Navy Bean Cassoulet",
-            "Veal Sweetbreads and Fried Brussels Sprouts"
-        ]
-    },
-    {
         "name": "Keevil & Keevil Grocery and Kitchen",
         "url": "https://www.facebook.com/KandKGroceryandKitchen/",
         "times picked": 3,
@@ -1913,46 +2419,6 @@
         ]
     },
     {
-        "name": "Doma",
-        "url": "https://domakoreankitchen.com/menu",
-        "times picked": 3,
-        "recommendations": [
-            "Chicken Wings",
-            "Wings",
-            "Chicken Lunch Box"
-        ]
-    },
-    {
-        "name": "Roots Natural Kitchen",
-        "url": "http://www.rootsnaturalkitchen.com/",
-        "times picked": 3,
-        "recommendations": [
-            "The Mayweather",
-            "The Mayweather Salad",
-            "The Southern"
-        ]
-    },
-    {
-        "name": "Little Manila",
-        "url": "https://www.facebook.com/LittleManilaCville/",
-        "times picked": 3,
-        "recommendations": [
-            "Lumpia",
-            "Filipino BBQ Platter",
-            "Pancit"
-        ]
-    },
-    {
-        "name": "Bellair Market",
-        "url": "http://tigerfuelmarkets.com/index.php/locations/the-market-at-bellair",
-        "times picked": 3,
-        "recommendations": [
-            "The Birdwood",
-            "Belmont",
-            "Earlysville Sandwich"
-        ]
-    },
-    {
         "name": "Early Mountain Vineyards",
         "url": "https://www.earlymountain.com/",
         "times picked": 3,
@@ -1960,26 +2426,6 @@
             "Artichoke Pate",
             "Novum 2013",
             "Soft Pretzel"
-        ]
-    },
-    {
-        "name": "Gabriele Rausse Winery",
-        "url": "http://www.gabrieleraussewinery.com/",
-        "times picked": 3,
-        "recommendations": [
-            "Rosso",
-            "Viognier and Tim's Fresh Bread with Olive Oil",
-            "2015 Pinot Grigio"
-        ]
-    },
-    {
-        "name": "Sultan Kebab",
-        "url": "https://charlottesville29.com/2016/03/18/sultan-kebab/",
-        "times picked": 3,
-        "recommendations": [
-            "Sucuk Platter",
-            "Appetizers",
-            "Manti"
         ]
     },
     {
@@ -2043,6 +2489,16 @@
         ]
     },
     {
+        "name": "The Shebeen",
+        "url": "http://www.shebeen.com/",
+        "times picked": 3,
+        "recommendations": [
+            "Peri-peri Wings",
+            "Shrimp ‘n Grits",
+            "Durban Spiced Chicken"
+        ]
+    },
+    {
         "name": "The Pigeon Hole",
         "url": "https://thepigeonhole.eat24hour.com/",
         "times picked": 3,
@@ -2050,16 +2506,6 @@
             "Biscuits and Red-Eye Gravy",
             "Eggs and Grits",
             "Bloody Mary"
-        ]
-    },
-    {
-        "name": "Brioche Feuilletée",
-        "url": "https://charlottesville29.com/2016/06/02/inventing-the-bronut/",
-        "times picked": 3,
-        "recommendations": [
-            "Brioche Feuilletée",
-            "Brioche Feuilletée",
-            "Brioche Feuilletée"
         ]
     },
     {
@@ -2083,16 +2529,6 @@
         ]
     },
     {
-        "name": "Kardinal Hall",
-        "url": "http://kardinalhall.com/",
-        "times picked": 3,
-        "recommendations": [
-            "Pastrami Sandwich",
-            "Spice Rubbed Brisket Sandwich",
-            "Pretzel with Obatzda Cheese"
-        ]
-    },
-    {
         "name": "Chaps",
         "url": "http://chapsicecream.com/",
         "times picked": 3,
@@ -2113,16 +2549,6 @@
         ]
     },
     {
-        "name": "Dürty Nelly's Pub - Deli",
-        "url": "http://so%20my%20new%20find%20will%20be%20durty%20nelly%27s%20pub-wayside%20deli%20this%20is%20where%20i%20go%20to%20disappear.%20a%20cozy%20%22cheers%22%20esque%20bar%20full%20of%20regulars%20that%20only%20know%20each%20other%20by%20name%20and%20hug%20goodbye.%20in%20the%20winter%20the%20fireplace%20is%20ablaze%20with%20rock%20and%20roll%20pouring%20from%20the%20speakers%2C%20the%20door%20propped%20open%2C%20the%20perfect%20brackish%20air%20combination%20of%20fire%20and%20fresh.%20with%20a%20domestic%20pitcher%20weighing%20in%20at%2010%20dollars%20even%28rolling%20rock%20for%20me%29%20it%20makes%20for%20an%20economical%20afternoon.%20if%20i%27m%20feeling%20wealthy%20i%27ll%20splurge%20and%20get%20a%20dagwood%20sandwich%2C%20which%20contains%20nearly%20every%20sandwich%20staple%20under%20the%20sun.%20it%27s%20a%20tight%20knit%20crew%20down%20at%20durty%20nellys%20so%20lets%20still%20keep%20this%20between%20us./",
-        "times picked": 3,
-        "recommendations": [
-            "Dagwood",
-            "Budweiser",
-            "Hot Sicilian"
-        ]
-    },
-    {
         "name": "City Market",
         "url": "https://www.facebook.com/CharlottesvilleCityMarket/",
         "times picked": 3,
@@ -2130,16 +2556,6 @@
             "Cheddar Jalapeno Dogs",
             "Baklava",
             "Al Pastor Tacos"
-        ]
-    },
-    {
-        "name": "Market Street Market",
-        "url": "http://www.marketstreetmarket.net/",
-        "times picked": 3,
-        "recommendations": [
-            "Prosciutto and Blue Cheese Sandwich",
-            "Herb-roasted Turkey Sandwich",
-            "Prosciutto and Blue Cheese Sandwich"
         ]
     },
     {
@@ -2170,16 +2586,6 @@
             "Caterpillar Roll",
             "The Whole Menu",
             "Shrimp Tempura"
-        ]
-    },
-    {
-        "name": "The Blue Ridge Pig",
-        "url": "https://www.facebook.com/pages/The-Blue-Ridge-Pig/151822278208041",
-        "times picked": 3,
-        "recommendations": [
-            "Turkey Croissant",
-            "Smoked Turkey Croissant, Potato Salad and Limeade",
-            "Smoked Turkey Croissant"
         ]
     },
     {
@@ -2242,6 +2648,213 @@
         ]
     },
     {
+        "name": "Luce",
+        "url": "https://www.lucepasta.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Kale Caesar Salad",
+            "Cacio e Pepe Pizza"
+        ]
+    },
+    {
+        "name": "Chandler's Bakery",
+        "url": "http://www.chandlersbakery.com/bakery-items",
+        "times picked": 2,
+        "recommendations": [
+            "Birthday Cakes",
+            "Black & White Cookies"
+        ]
+    },
+    {
+        "name": "Smyrna",
+        "url": "https://charlottesville29.com/2022/11/07/chefs-choice-why-smyrna-is-charlottesvilles-latest-industry-favorite/",
+        "times picked": 2,
+        "recommendations": [
+            "Farmers Bread with Meze Trio",
+            "“Eriste” Pasta"
+        ]
+    },
+    {
+        "name": "Manila Street",
+        "url": "https://www.facebook.com/ManilaStreetCville/",
+        "times picked": 2,
+        "recommendations": [
+            "Pancit",
+            "Biko"
+        ]
+    },
+    {
+        "name": "Café Frank",
+        "url": "https://charlottesville29.com/2022/03/17/charlottesville-2022-best-new-restaurant-cafe-frank/",
+        "times picked": 2,
+        "recommendations": [
+            "Quenelles de Brochet",
+            "Seabass Normandy"
+        ]
+    },
+    {
+        "name": "Mudhouse",
+        "url": "https://mudhouse.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Ethiopian Qabballe Pourover",
+            "Bora Bora Latte"
+        ]
+    },
+    {
+        "name": "Cou Cou Rachou",
+        "url": "https://www.coucourachou.com/",
+        "times picked": 2,
+        "recommendations": [
+            "English Muffin",
+            "Miso Chocolate Chip Cookie"
+        ]
+    },
+    {
+        "name": "Atlas Coffee",
+        "url": "https://atlascoffeecville.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Raspberry Triangle",
+            "Black Coffee"
+        ]
+    },
+    {
+        "name": "The Virginian",
+        "url": "https://www.thevirginiancville.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Stumble Down Mac N' Cheese",
+            "Mac n' Cheese with potato cake"
+        ]
+    },
+    {
+        "name": "The Nook",
+        "url": "https://www.thenookcville.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Chocolate Milkshake",
+            "Crab Benedict"
+        ]
+    },
+    {
+        "name": "Michie Tavern",
+        "url": "https://www.michietavern.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Fried Chicken",
+            "Fried Chicken"
+        ]
+    },
+    {
+        "name": "Bee Conscious Baking Company",
+        "url": "https://www.beeconsciousbakingcompany.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Apple Galette",
+            "Salted Caramel Apple Galette"
+        ]
+    },
+    {
+        "name": "Milli Coffee Roasters",
+        "url": "https://www.millicoffeeroasters.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Special Waffle",
+            "Tomato Bisque"
+        ]
+    },
+    {
+        "name": "Petite MarieBette",
+        "url": "http://www.mariebette.com/#european-inspired",
+        "times picked": 2,
+        "recommendations": [
+            "Iced Vanilla Latte",
+            "Hazelnut Latte"
+        ]
+    },
+    {
+        "name": "Maru",
+        "url": "https://www.facebook.com/pages/category/Korean-Restaurant/MARU-Korean-Restaurant-and-Bar-2017903721790032/",
+        "times picked": 2,
+        "recommendations": [
+            "Deonjang Jjigae",
+            "Kimchi Jjigae"
+        ]
+    },
+    {
+        "name": "Moon Maiden's Delights",
+        "url": "https://www.moonmaidensdelights.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Bread Pudding",
+            "Cake of the Day"
+        ]
+    },
+    {
+        "name": "Quality Pie",
+        "url": "https://www.qualitypieva.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Tarta de Santiago",
+            "Bacon Wrapped Dates"
+        ]
+    },
+    {
+        "name": "BreadWorks",
+        "url": "http://breadworks.org/breadworks/",
+        "times picked": 2,
+        "recommendations": [
+            "Sugar Cookie Mixed Box",
+            "Sandwiches"
+        ]
+    },
+    {
+        "name": "Champion Grill",
+        "url": "https://charlottesville29.com/2020/01/13/introducing-champion-grill/",
+        "times picked": 2,
+        "recommendations": [
+            "Pineapple Jerk Cauliflower Wings",
+            "Fried Brussels Sprouts with Sweet and Spicy Pepper Jelly"
+        ]
+    },
+    {
+        "name": "Devils Backbone Brewing Company",
+        "url": "https://www.dbbrewingcompany.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Mile 842",
+            "Eight Point IPA"
+        ]
+    },
+    {
+        "name": "Aberdeen Barn",
+        "url": "https://www.c-ville.com/old-school-nearing-50-aberdeen-barn-lives-uva-institution/",
+        "times picked": 2,
+        "recommendations": [
+            "Prime Rib",
+            "Prime Rib"
+        ]
+    },
+    {
+        "name": "Montifalco Vineyard",
+        "url": "https://www.montifalcovineyard.com/",
+        "times picked": 2,
+        "recommendations": [
+            "Cabernet Franc Reserve",
+            "2016 Meritage"
+        ]
+    },
+    {
+        "name": "Côte-Rôtie",
+        "url": "https://www.facebook.com/cvillefoodtruck/",
+        "times picked": 2,
+        "recommendations": [
+            "Pork Belly",
+            "Everything"
+        ]
+    },
+    {
         "name": "Chicano Boy Taco",
         "url": "https://www.chicanoboytaco.com/",
         "times picked": 2,
@@ -2251,39 +2864,12 @@
         ]
     },
     {
-        "name": "Mochiko",
-        "url": "https://hawaiianfoodcville.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Spam Musubi",
-            "Spam Musubi and Pork Lau Lau"
-        ]
-    },
-    {
-        "name": "Farmstead Ferments",
-        "url": "https://farmsteadferments.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Water Kefir Soda",
-            "Apple Kraut"
-        ]
-    },
-    {
         "name": "Cocoa & Spice",
         "url": "http://www.cocoaandspice.com/",
         "times picked": 2,
         "recommendations": [
             "Cold Hot Chocolate",
             "Brownies"
-        ]
-    },
-    {
-        "name": "Lone Light Coffee",
-        "url": "https://www.facebook.com/lonelightcoffee/",
-        "times picked": 2,
-        "recommendations": [
-            "Almond Milk Cappuccino",
-            "Iced Almond Milk Latte"
         ]
     },
     {
@@ -2359,24 +2945,6 @@
         ]
     },
     {
-        "name": "Green House Coffee",
-        "url": "http://www.greenhousecrozet.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Banana Nut Bread",
-            "California Turkey Sandwich"
-        ]
-    },
-    {
-        "name": "Sussex Farm",
-        "url": "https://www.facebook.com/sussexfarmkimchi/",
-        "times picked": 2,
-        "recommendations": [
-            "Bulgogi Sliders with Sunny Side Up Egg",
-            "Radish Top Kimchi"
-        ]
-    },
-    {
         "name": "Barboursville Vineyards",
         "url": "https://www.bbvwine.com/",
         "times picked": 2,
@@ -2392,15 +2960,6 @@
         "recommendations": [
             "Dreams of Beirut Tea",
             "The Goat Herder"
-        ]
-    },
-    {
-        "name": "Afghan Kabob Palace",
-        "url": "https://afghankabobpalace400.eat24hour.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Qabuli Palow and Firnee",
-            "Kofta Kabob"
         ]
     },
     {
@@ -2431,48 +2990,12 @@
         ]
     },
     {
-        "name": "Tacos Gomez",
-        "url": "https://charlottesville29.com/tag/tacos-gomez/",
-        "times picked": 2,
-        "recommendations": [
-            "Torta Al Pastor",
-            "Tacos Al Pastor"
-        ]
-    },
-    {
-        "name": "Tavern & Grocery",
-        "url": "http://tavernandgrocery.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Steak and Fromage",
-            "Martinez"
-        ]
-    },
-    {
-        "name": "The Shebeen",
-        "url": "http://www.shebeen.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Peri-peri Wings",
-            "Shrimp ‘n Grits"
-        ]
-    },
-    {
         "name": "LW's Livery Stable",
         "url": "http://livery-stable.com/",
         "times picked": 2,
         "recommendations": [
             "Vibe",
             "Crazy Legs"
-        ]
-    },
-    {
-        "name": "South Street Brewery",
-        "url": "http://southstreetbrewery.com/",
-        "times picked": 2,
-        "recommendations": [
-            "The Hangover Burger",
-            "Cheese Curds"
         ]
     },
     {
@@ -2554,15 +3077,6 @@
         "recommendations": [
             "Tonkotsu",
             "Spicy Miso Ramen"
-        ]
-    },
-    {
-        "name": "Take It Away Sandwich Shop",
-        "url": "http://www.takeitawaysandwichshop.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Turkey, Havarti, Sprouts, and House Dressing",
-            "Veggie on Rye with House Dressing, add Watercress and a Side of House Dressing, 1/2 pint Exotic Grains, and Rte 66 Dill Pickle Chips"
         ]
     },
     {
@@ -2755,15 +3269,6 @@
         ]
     },
     {
-        "name": "El Puerto",
-        "url": "http://www.puertorestaurantva.com/",
-        "times picked": 2,
-        "recommendations": [
-            "Chimichanga",
-            "Fajita Burrito"
-        ]
-    },
-    {
         "name": "Aromas Cafe",
         "url": "http://www.aromascafecville.com/home",
         "times picked": 2,
@@ -2818,11 +3323,363 @@
         ]
     },
     {
-        "name": "Montifalco Vineyard",
-        "url": "https://www.montifalcovineyard.com/",
+        "name": "GRN BRGR",
+        "url": "https://www.grnburger.com/",
         "times picked": 1,
         "recommendations": [
-            "2016 Meritage"
+            "Grn Street Single Veggie Burger"
+        ]
+    },
+    {
+        "name": "Passiflora",
+        "url": "https://passiflorava.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Grilled Pineapple"
+        ]
+    },
+    {
+        "name": "Botanical",
+        "url": "https://www.botanicalfare.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Won Ton Nachos"
+        ]
+    },
+    {
+        "name": "Otto",
+        "url": "https://www.otto-cville.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Falafel Bowl"
+        ]
+    },
+    {
+        "name": "Patois Cider",
+        "url": "https://www.patoiscider.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Bricolage"
+        ]
+    },
+    {
+        "name": "Baker No Bakery",
+        "url": "https://www.bakernobakery.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Kabocha Squash Brioche Tart with Cream Cheese"
+        ]
+    },
+    {
+        "name": "Baleadas",
+        "url": "https://charlottesville29.com/2019/06/27/food-find-baleadas-at-el-ciruelo/",
+        "times picked": 1,
+        "recommendations": [
+            "Baleadas"
+        ]
+    },
+    {
+        "name": "Kuma Sushi Noodles & Bar",
+        "url": "http://places.singleplatform.com/kuma-sushi-noodles--bar/menu",
+        "times picked": 1,
+        "recommendations": [
+            "Ddukbokki"
+        ]
+    },
+    {
+        "name": "Dino's Wood Fired Pizza",
+        "url": "https://www.dinos.restaurant/",
+        "times picked": 1,
+        "recommendations": [
+            "Pepperoni Pizza"
+        ]
+    },
+    {
+        "name": "Market Street Wine",
+        "url": "https://www.marketstwine.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Patois Cider"
+        ]
+    },
+    {
+        "name": "Burger Bach",
+        "url": "https://theburgerbach.com/charlottesville-menu/",
+        "times picked": 1,
+        "recommendations": [
+            "East Coast"
+        ]
+    },
+    {
+        "name": "Guadalajara (UVa location)",
+        "url": "https://www.guadalajaramexicanva.com/locations",
+        "times picked": 1,
+        "recommendations": [
+            "Shrimp Tacos"
+        ]
+    },
+    {
+        "name": "Snowfox Sushi",
+        "url": "https://www.kroger.com/pb/snowfox/sushi/1300800002?fulfillment=all",
+        "times picked": 1,
+        "recommendations": [
+            "Shrimp Tempura Sushi"
+        ]
+    },
+    {
+        "name": "Tonic",
+        "url": "https://www.tonic-cville.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Bee Bomb"
+        ]
+    },
+    {
+        "name": "Cold Country Salmon",
+        "url": "https://coldcountrysalmon.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Smoked Salmon Spread"
+        ]
+    },
+    {
+        "name": "Moo Thru",
+        "url": "https://dairymarketcville.com/stalls/moo-thru/",
+        "times picked": 1,
+        "recommendations": [
+            "Milkshakes"
+        ]
+    },
+    {
+        "name": "Poke Sushi Bowl",
+        "url": "http://www.pokesushibowl.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Rainbow Bowl with Noodles"
+        ]
+    },
+    {
+        "name": "Basil",
+        "url": "https://www.basilmedbistro.com/",
+        "times picked": 1,
+        "recommendations": [
+            "The Balboa (AKA “The Italian Philly”"
+        ]
+    },
+    {
+        "name": "Croby's",
+        "url": "https://www.crobys.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Fried Green Tomato BLT"
+        ]
+    },
+    {
+        "name": "Conmole",
+        "url": "https://www.conmole.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Coliflor"
+        ]
+    },
+    {
+        "name": "El Tako Nako",
+        "url": "https://www.facebook.com/ElTakoNako1/",
+        "times picked": 1,
+        "recommendations": [
+            "Cabeza Tacos"
+        ]
+    },
+    {
+        "name": "Ming Dynasty",
+        "url": "http://www.mingdynastychinese.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Sesame Chicken"
+        ]
+    },
+    {
+        "name": "Yuan Ho",
+        "url": "http://www.yuanho.com/index.html",
+        "times picked": 1,
+        "recommendations": [
+            "Traditional Chinese"
+        ]
+    },
+    {
+        "name": "Piedmont Store",
+        "url": "https://www.facebook.com/pages/category/Convenience-Store/Piedmont-Store-147840831921435/",
+        "times picked": 1,
+        "recommendations": [
+            "Hunt Brother's Thin Crust Pizza"
+        ]
+    },
+    {
+        "name": "Stinson Vineyards",
+        "url": "http://www.stinsonvineyards.com/",
+        "times picked": 1,
+        "recommendations": [
+            "COVID-19 Wine Flights"
+        ]
+    },
+    {
+        "name": "The Pie Guy",
+        "url": "https://www.facebook.com/thepieguycville/",
+        "times picked": 1,
+        "recommendations": [
+            "Virginia Morning Breakfast Pie"
+        ]
+    },
+    {
+        "name": "Guadalajara (Downtown)",
+        "url": "https://www.guadalajaramexicanva.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Frozen Lime Margarita"
+        ]
+    },
+    {
+        "name": "Plenty Cville",
+        "url": "https://www.plentycville.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Blueberry Pancake Bake"
+        ]
+    },
+    {
+        "name": "Royalty Eats",
+        "url": "https://www.facebook.com/loveroyalfood/",
+        "times picked": 1,
+        "recommendations": [
+            "Double Stuffed Baked Potato"
+        ]
+    },
+    {
+        "name": "Riverside Lunch North",
+        "url": "https://www.facebook.com/Riverside-Lunch-North-112054027025259/",
+        "times picked": 1,
+        "recommendations": [
+            "Double Cheeseburger"
+        ]
+    },
+    {
+        "name": "Corner Juice",
+        "url": "https://www.cornerjuice.com/",
+        "times picked": 1,
+        "recommendations": [
+            "House Acai Bowl"
+        ]
+    },
+    {
+        "name": "Orange Dot Baking Company",
+        "url": "https://orangedotbaking.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Rustic Rosemary English Muffins"
+        ]
+    },
+    {
+        "name": "The Southern Crescent",
+        "url": "https://www.thesoutherncrescent.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Catfish Po'Boy"
+        ]
+    },
+    {
+        "name": "Skjald Meadworks",
+        "url": "http://skjaldmeadworks.com/index.html",
+        "times picked": 1,
+        "recommendations": [
+            "Undorn Mead"
+        ]
+    },
+    {
+        "name": "Soul Food Joint",
+        "url": "https://www.soulfoodjoint.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Mac & Cheese"
+        ]
+    },
+    {
+        "name": "Plaza Azteca",
+        "url": "https://www.plazaazteca.com/virginia-area-all",
+        "times picked": 1,
+        "recommendations": [
+            "Shrimp Tacos"
+        ]
+    },
+    {
+        "name": "Pye Dog Pizza",
+        "url": "https://charlottesville29.com/2019/10/30/cross-bread-introducing-pye-dog-pizza/",
+        "times picked": 1,
+        "recommendations": [
+            "Spinach Saag, Sundried Tomato Oil, Cauliflower and Paneer Pizza"
+        ]
+    },
+    {
+        "name": "Kama",
+        "url": "https://kamacville.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Fried Rice"
+        ]
+    },
+    {
+        "name": "Holmes Dinner Club",
+        "url": "https://www.holmesdinnerclub.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Duck confit, celery root purée, apple gastrique"
+        ]
+    },
+    {
+        "name": "Comal",
+        "url": "https://www.comalcville.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Pulpo"
+        ]
+    },
+    {
+        "name": "Common House",
+        "url": "https://www.commonhouse.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Mushroom Toast"
+        ]
+    },
+    {
+        "name": "Nona's Italian Cucina",
+        "url": "https://nonascucina.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Classic Tomato Sauce"
+        ]
+    },
+    {
+        "name": "Mi Canton",
+        "url": "https://www.facebook.com/MiCantonCville/",
+        "times picked": 1,
+        "recommendations": [
+            "Pupusas Revueltas"
+        ]
+    },
+    {
+        "name": "Livery Stable",
+        "url": "http://livery-stable.com/",
+        "times picked": 1,
+        "recommendations": [
+            "The Black Beauty"
+        ]
+    },
+    {
+        "name": "Crozet Creamery",
+        "url": "https://crozetcreamery.com/",
+        "times picked": 1,
+        "recommendations": [
+            "Cookies and Cream Milkshake"
         ]
     },
     {
@@ -2834,27 +3691,11 @@
         ]
     },
     {
-        "name": "Quality Pie",
-        "url": "https://www.qualitypieva.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Bacon Wrapped Dates"
-        ]
-    },
-    {
         "name": "Keswick Hall",
         "url": "https://www.keswick.com/home-2018.htm",
         "times picked": 1,
         "recommendations": [
             "Guests and Staff"
-        ]
-    },
-    {
-        "name": "Belle",
-        "url": "https://www.facebook.com/BelleCville/",
-        "times picked": 1,
-        "recommendations": [
-            "English Muffins"
         ]
     },
     {
@@ -2871,14 +3712,6 @@
         "times picked": 1,
         "recommendations": [
             "Coming Home Tea"
-        ]
-    },
-    {
-        "name": "Moon Maiden's Delights",
-        "url": "http://www.moonmaidensdelights.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Cake of the Day"
         ]
     },
     {
@@ -2967,14 +3800,6 @@
         "times picked": 1,
         "recommendations": [
             "4) Panang Curry"
-        ]
-    },
-    {
-        "name": "Michie Tavern",
-        "url": "https://www.michietavern.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Fried Chicken"
         ]
     },
     {
@@ -3162,22 +3987,6 @@
         ]
     },
     {
-        "name": "Mudhouse",
-        "url": "http://mudhouse.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Bora Bora Latte"
-        ]
-    },
-    {
-        "name": "Milli Coffee Roasters",
-        "url": "https://millicoffeeroasters.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Tomato Bisque"
-        ]
-    },
-    {
         "name": "Radical Roots Farm",
         "url": "http://radicalrootsfarm.com/",
         "times picked": 1,
@@ -3199,14 +4008,6 @@
         "times picked": 1,
         "recommendations": [
             "Wine and the View"
-        ]
-    },
-    {
-        "name": "Aberdeen Barn",
-        "url": "http://www.c-ville.com/old-school-nearing-50-aberdeen-barn-lives-uva-institution/#.WioGU1WnGM8",
-        "times picked": 1,
-        "recommendations": [
-            "Prime Rib"
         ]
     },
     {
@@ -3498,14 +4299,6 @@
         ]
     },
     {
-        "name": "Côte-Rôtie",
-        "url": "http://charlottesville29.com/2015/10/06/introducing-cote-rotie/",
-        "times picked": 1,
-        "recommendations": [
-            "Everything"
-        ]
-    },
-    {
         "name": "Kokoro",
         "url": "http://www.c-ville.com/at-kokoro-sushi-lovers-are-in-good-hands/#.VmrEsL8_aJ8",
         "times picked": 1,
@@ -3591,14 +4384,6 @@
         "times picked": 1,
         "recommendations": [
             "Pork Belly Rice Bowl"
-        ]
-    },
-    {
-        "name": "Mona Lisa",
-        "url": "https://www.facebook.com/pages/Mona-Lisa-Pasta/1575550189323257",
-        "times picked": 1,
-        "recommendations": [
-            "Pizza"
         ]
     },
     {
@@ -3802,19 +4587,19 @@
         ]
     },
     {
-        "name": "Devil's Backbone",
-        "url": "http://www.dbbrewingcompany.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Eight Point IPA"
-        ]
-    },
-    {
         "name": "Afghan Grand Market",
         "url": "http://charlottesville29.com/2013/02/05/two-for-tuesday-paradox-pastry-and-afghan-grand-market/",
         "times picked": 1,
         "recommendations": [
             "Lamb Curry"
+        ]
+    },
+    {
+        "name": "Brixx Pizza",
+        "url": "http://brixxpizza.com/locations/charlottesville",
+        "times picked": 1,
+        "recommendations": [
+            "Mediterranean Salad with Wood-Roasted Salmon"
         ]
     },
     {
@@ -3911,14 +4696,6 @@
         "times picked": 1,
         "recommendations": [
             "An Afternoon"
-        ]
-    },
-    {
-        "name": "Breadworks",
-        "url": "http://www.breadworks.org/",
-        "times picked": 1,
-        "recommendations": [
-            "Sandwiches"
         ]
     },
     {
@@ -4034,14 +4811,6 @@
         ]
     },
     {
-        "name": "The Nook",
-        "url": "http://www.thenookcville.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Crab Benedict"
-        ]
-    },
-    {
         "name": "Java Java",
         "url": "http://javajavacafe.com/home/",
         "times picked": 1,
@@ -4079,14 +4848,6 @@
         "times picked": 1,
         "recommendations": [
             "Fried pickle chips"
-        ]
-    },
-    {
-        "name": "Chandler's",
-        "url": "http://chandlersbakery.com/",
-        "times picked": 1,
-        "recommendations": [
-            "Black & White Cookies"
         ]
     },
     {
