@@ -24,7 +24,6 @@ Back 40
 Baggby's
 Baja Bean Co
 Baker No Bakery
-Baleadas
 Bang
 Barbie's Burrito Barn
 Barboursville Vineyards
@@ -56,7 +55,6 @@ Brasserie Saison
 Brazos Tacos
 BreadWorks
 Brent Manor Vineyards
-Brioche Feuilletée
 Brixx Pizza
 Brookville Restaurant
 Brown's
@@ -125,7 +123,6 @@ Eppie's
 Erin Scala
 Fabio's NY Pizza
 Fardowners
-Farmers in the Park
 Farmstead Ferments
 Feast
 Fig
@@ -190,7 +187,6 @@ L'etoile
 LW's Livery Stable
 La Finca Grill
 La Flor Michoacana Ice Cream Shop
-La Guadalupana
 La Michoacana Taqueria & Restaurant
 La Taza
 La Vache Microcreamery
@@ -296,7 +292,6 @@ Revolutionary Soup
 Rhett's River Grill
 Riverside Lunch
 Riverside Lunch North
-Rock Barn
 Rocksalt
 Roots Natural Kitchen
 Royal Indian
