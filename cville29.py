@@ -63,7 +63,7 @@ for element in entries:
         rnames.add(rname)
         rurl = restaurant["href"]
         
-        rec_text = restaurant.next_sibling.text.strip().lstrip(".").strip().strip("“”\"")
+        rec_text = "".join(s.text for s in restaurant.next_siblings).replace("\n"," ").strip().lstrip(".").strip().strip("“”\"")
 
         recommendation = {"item":cleanup(item.text),"date":date,"finder":finder,"recommendation":rec_text}
         if rname in restaurantcount:
